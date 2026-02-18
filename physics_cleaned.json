@@ -1,0 +1,3798 @@
+[
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Energy gap in conductor is:",
+    "options": [
+      "Large",
+      "Zero",
+      "Small",
+      "Infinite"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Majority carriers in p-type semiconductor are:",
+    "options": [
+      "Electrons",
+      "Protons",
+      "Holes",
+      "Neutrons"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Forward bias decreases:",
+    "options": [
+      "Current",
+      "Barrier potential",
+      "Temperature",
+      "Energy gap"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Reverse bias increases:",
+    "options": [
+      "Current",
+      "Barrier width",
+      "Conduction",
+      "Holes"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "LED works on:",
+    "options": [
+      "Thermionic emission",
+      "Recombination",
+      "Photoelectric effect",
+      "Induction"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Work function is:",
+    "options": [
+      "Maximum KE",
+      "Minimum energy required",
+      "Stopping potential",
+      "Intensity"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Stopping potential depends on:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Area",
+      "Temperature"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Threshold frequency is:",
+    "options": [
+      "Maximum frequency",
+      "Minimum frequency for emission",
+      "Intensity limit",
+      "Voltage"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "If intensity increases, photo current:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Zero",
+      "Constant KE"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Einstein equation is:",
+    "options": [
+      "hf=W+KE",
+      "E=mc²",
+      "V=IR",
+      "F=ma"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Atoms",
+    "q": "Bohr radius proportional to:",
+    "options": [
+      "n",
+      "n²",
+      "1/n",
+      "1/n²"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Atoms",
+    "q": "Angular momentum is quantized as:",
+    "options": [
+      "mvr=nh/2π",
+      "mvr=h",
+      "mvr=n²h",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Nuclei",
+    "q": "Binding energy is energy required to:",
+    "options": [
+      "Split atom",
+      "Remove electron",
+      "Break nucleus",
+      "Ionize atom"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Nuclei",
+    "q": "Fusion occurs in:",
+    "options": [
+      "Atom bomb",
+      "Sun",
+      "LED",
+      "Battery"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Nuclei",
+    "q": "Radioactive decay follows:",
+    "options": [
+      "Linear law",
+      "Exponential law",
+      "Logarithmic law",
+      "Constant law"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Mirror formula is:",
+    "options": [
+      "1/f=1/v+1/u",
+      "f=v+u",
+      "V=IR",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Power of lens unit is:",
+    "options": [
+      "Watt",
+      "Volt",
+      "Dioptre",
+      "Tesla"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Convex lens produces virtual image when object is:",
+    "options": [
+      "Beyond F",
+      "Between F and O",
+      "At 2F",
+      "At infinity"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Total internal reflection occurs when:",
+    "options": [
+      "i < c",
+      "i > c",
+      "i=c",
+      "i=0"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Refractive index is ratio of:",
+    "options": [
+      "Velocity",
+      "Frequency",
+      "Wavelength",
+      "Intensity"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Fringe width formula is:",
+    "options": [
+      "λD/d",
+      "dD/λ",
+      "λ/d",
+      "D/λ"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "YDSE shows:",
+    "options": [
+      "Diffraction",
+      "Interference",
+      "Refraction",
+      "Polarization"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Constructive interference when path diff =",
+    "options": [
+      "nλ",
+      "λ/2",
+      "λ/4",
+      "Zero only"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Diffraction is bending of light around:",
+    "options": [
+      "Charge",
+      "Edges",
+      "Magnets",
+      "Lens"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Young's experiment proves light is:",
+    "options": [
+      "Particle",
+      "Wave",
+      "Ray",
+      "Neutral"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Drift velocity proportional to:",
+    "options": [
+      "Electric field",
+      "Resistance",
+      "Length",
+      "Area"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Resistivity depends on:",
+    "options": [
+      "Length",
+      "Area",
+      "Material",
+      "Voltage"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Ohm's law is:",
+    "options": [
+      "V=IR",
+      "I=VR",
+      "P=IV",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Unit of resistivity:",
+    "options": [
+      "Ohm",
+      "Ohm-meter",
+      "Volt",
+      "Ampere"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Mobility is ratio of drift velocity to:",
+    "options": [
+      "Current",
+      "Voltage",
+      "Electric field",
+      "Resistance"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Magnetism",
+    "q": "Force on moving charge:",
+    "options": [
+      "qE",
+      "qvB",
+      "ma",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Magnetism",
+    "q": "Right hand thumb rule gives direction of:",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Current",
+      "Force"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "EM Waves",
+    "q": "EM waves are:",
+    "options": [
+      "Longitudinal",
+      "Transverse",
+      "Stationary",
+      "Mechanical"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "EM Waves",
+    "q": "Speed of EM waves in vacuum:",
+    "options": [
+      "3×10^8 m/s",
+      "3×10^6 m/s",
+      "3×10^5 m/s",
+      "3×10^3 m/s"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Dual Nature",
+    "q": "de-Broglie wavelength formula:",
+    "options": [
+      "h/p",
+      "hf",
+      "mc²",
+      "1/f"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Dual Nature",
+    "q": "Photon momentum is:",
+    "options": [
+      "h/λ",
+      "λ/h",
+      "mc",
+      "Zero"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Energy gap in conductor is:",
+    "options": [
+      "Large",
+      "Zero",
+      "Small",
+      "Infinite"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Majority carriers in p-type semiconductor are:",
+    "options": [
+      "Electrons",
+      "Protons",
+      "Holes",
+      "Neutrons"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Forward bias decreases:",
+    "options": [
+      "Current",
+      "Barrier potential",
+      "Temperature",
+      "Energy gap"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Reverse bias increases:",
+    "options": [
+      "Current",
+      "Barrier width",
+      "Conduction",
+      "Holes"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "LED works on:",
+    "options": [
+      "Thermionic emission",
+      "Recombination",
+      "Photoelectric effect",
+      "Induction"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Work function is:",
+    "options": [
+      "Maximum KE",
+      "Minimum energy required",
+      "Stopping potential",
+      "Intensity"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Stopping potential depends on:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Area",
+      "Temperature"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Threshold frequency is:",
+    "options": [
+      "Maximum frequency",
+      "Minimum frequency for emission",
+      "Intensity limit",
+      "Voltage"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "If intensity increases, photo current:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Zero",
+      "Constant KE"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Einstein equation is:",
+    "options": [
+      "hf=W+KE",
+      "E=mc²",
+      "V=IR",
+      "F=ma"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Atoms",
+    "q": "Bohr radius proportional to:",
+    "options": [
+      "n",
+      "n²",
+      "1/n",
+      "1/n²"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Atoms",
+    "q": "Angular momentum is quantized as:",
+    "options": [
+      "mvr=nh/2π",
+      "mvr=h",
+      "mvr=n²h",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Nuclei",
+    "q": "Binding energy is energy required to:",
+    "options": [
+      "Split atom",
+      "Remove electron",
+      "Break nucleus",
+      "Ionize atom"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Nuclei",
+    "q": "Fusion occurs in:",
+    "options": [
+      "Atom bomb",
+      "Sun",
+      "LED",
+      "Battery"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Nuclei",
+    "q": "Radioactive decay follows:",
+    "options": [
+      "Linear law",
+      "Exponential law",
+      "Logarithmic law",
+      "Constant law"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Mirror formula is:",
+    "options": [
+      "1/f=1/v+1/u",
+      "f=v+u",
+      "V=IR",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Power of lens unit is:",
+    "options": [
+      "Watt",
+      "Volt",
+      "Dioptre",
+      "Tesla"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Convex lens produces virtual image when object is:",
+    "options": [
+      "Beyond F",
+      "Between F and O",
+      "At 2F",
+      "At infinity"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Total internal reflection occurs when:",
+    "options": [
+      "i < c",
+      "i > c",
+      "i=c",
+      "i=0"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Refractive index is ratio of:",
+    "options": [
+      "Velocity",
+      "Frequency",
+      "Wavelength",
+      "Intensity"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Fringe width formula is:",
+    "options": [
+      "λD/d",
+      "dD/λ",
+      "λ/d",
+      "D/λ"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "YDSE shows:",
+    "options": [
+      "Diffraction",
+      "Interference",
+      "Refraction",
+      "Polarization"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Constructive interference when path diff =",
+    "options": [
+      "nλ",
+      "λ/2",
+      "λ/4",
+      "Zero only"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Diffraction is bending of light around:",
+    "options": [
+      "Charge",
+      "Edges",
+      "Magnets",
+      "Lens"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Young's experiment proves light is:",
+    "options": [
+      "Particle",
+      "Wave",
+      "Ray",
+      "Neutral"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Drift velocity proportional to:",
+    "options": [
+      "Electric field",
+      "Resistance",
+      "Length",
+      "Area"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Resistivity depends on:",
+    "options": [
+      "Length",
+      "Area",
+      "Material",
+      "Voltage"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Ohm's law is:",
+    "options": [
+      "V=IR",
+      "I=VR",
+      "P=IV",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Unit of resistivity:",
+    "options": [
+      "Ohm",
+      "Ohm-meter",
+      "Volt",
+      "Ampere"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Mobility is ratio of drift velocity to:",
+    "options": [
+      "Current",
+      "Voltage",
+      "Electric field",
+      "Resistance"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Magnetism",
+    "q": "Force on moving charge:",
+    "options": [
+      "qE",
+      "qvB",
+      "ma",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Magnetism",
+    "q": "Right hand thumb rule gives direction of:",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Current",
+      "Force"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "EM Waves",
+    "q": "EM waves are:",
+    "options": [
+      "Longitudinal",
+      "Transverse",
+      "Stationary",
+      "Mechanical"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "EM Waves",
+    "q": "Speed of EM waves in vacuum:",
+    "options": [
+      "3×10^8 m/s",
+      "3×10^6 m/s",
+      "3×10^5 m/s",
+      "3×10^3 m/s"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Dual Nature",
+    "q": "de-Broglie wavelength formula:",
+    "options": [
+      "h/p",
+      "hf",
+      "mc²",
+      "1/f"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Dual Nature",
+    "q": "Photon momentum is:",
+    "options": [
+      "h/λ",
+      "λ/h",
+      "mc",
+      "Zero"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Energy gap in conductor is:",
+    "options": [
+      "Large",
+      "Zero",
+      "Small",
+      "Infinite"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Majority carriers in p-type semiconductor are:",
+    "options": [
+      "Electrons",
+      "Protons",
+      "Holes",
+      "Neutrons"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Forward bias decreases:",
+    "options": [
+      "Current",
+      "Barrier potential",
+      "Temperature",
+      "Energy gap"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "Reverse bias increases:",
+    "options": [
+      "Current",
+      "Barrier width",
+      "Conduction",
+      "Holes"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Semiconductor",
+    "q": "LED works on:",
+    "options": [
+      "Thermionic emission",
+      "Recombination",
+      "Photoelectric effect",
+      "Induction"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Work function is:",
+    "options": [
+      "Maximum KE",
+      "Minimum energy required",
+      "Stopping potential",
+      "Intensity"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Stopping potential depends on:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Area",
+      "Temperature"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Threshold frequency is:",
+    "options": [
+      "Maximum frequency",
+      "Minimum frequency for emission",
+      "Intensity limit",
+      "Voltage"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "If intensity increases, photo current:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Zero",
+      "Constant KE"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric Effect",
+    "q": "Einstein equation is:",
+    "options": [
+      "hf=W+KE",
+      "E=mc²",
+      "V=IR",
+      "F=ma"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Atoms",
+    "q": "Bohr radius proportional to:",
+    "options": [
+      "n",
+      "n²",
+      "1/n",
+      "1/n²"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Atoms",
+    "q": "Angular momentum is quantized as:",
+    "options": [
+      "mvr=nh/2π",
+      "mvr=h",
+      "mvr=n²h",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Nuclei",
+    "q": "Binding energy is energy required to:",
+    "options": [
+      "Split atom",
+      "Remove electron",
+      "Break nucleus",
+      "Ionize atom"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Nuclei",
+    "q": "Fusion occurs in:",
+    "options": [
+      "Atom bomb",
+      "Sun",
+      "LED",
+      "Battery"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Nuclei",
+    "q": "Radioactive decay follows:",
+    "options": [
+      "Linear law",
+      "Exponential law",
+      "Logarithmic law",
+      "Constant law"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Mirror formula is:",
+    "options": [
+      "1/f=1/v+1/u",
+      "f=v+u",
+      "V=IR",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Power of lens unit is:",
+    "options": [
+      "Watt",
+      "Volt",
+      "Dioptre",
+      "Tesla"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Convex lens produces virtual image when object is:",
+    "options": [
+      "Beyond F",
+      "Between F and O",
+      "At 2F",
+      "At infinity"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Total internal reflection occurs when:",
+    "options": [
+      "i < c",
+      "i > c",
+      "i=c",
+      "i=0"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Refractive index is ratio of:",
+    "options": [
+      "Velocity",
+      "Frequency",
+      "Wavelength",
+      "Intensity"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Fringe width formula is:",
+    "options": [
+      "λD/d",
+      "dD/λ",
+      "λ/d",
+      "D/λ"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "YDSE shows:",
+    "options": [
+      "Diffraction",
+      "Interference",
+      "Refraction",
+      "Polarization"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Constructive interference when path diff =",
+    "options": [
+      "nλ",
+      "λ/2",
+      "λ/4",
+      "Zero only"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Diffraction is bending of light around:",
+    "options": [
+      "Charge",
+      "Edges",
+      "Magnets",
+      "Lens"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Young's experiment proves light is:",
+    "options": [
+      "Particle",
+      "Wave",
+      "Ray",
+      "Neutral"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Drift velocity proportional to:",
+    "options": [
+      "Electric field",
+      "Resistance",
+      "Length",
+      "Area"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Resistivity depends on:",
+    "options": [
+      "Length",
+      "Area",
+      "Material",
+      "Voltage"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "Ohm's law is:",
+    "options": [
+      "V=IR",
+      "I=VR",
+      "P=IV",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Q1. Define electric flux and write its SI unit.",
+    "answer": "Electric flux is defined as the total number of electric field lines passing through a given area .Its SI unit is Volt-meter (V·m) or Newton meter squared per Coulomb (N·m²/C) "
+  },
+  {
+    "answer": "Drift velocity is the average velocity attained by charged particles (electrons) in a material due to an electric field.The relation with current is given by I = neAvd 2, ",
+    "q": "Q2. Define drift velocity. Write relation with current."
+  },
+  {
+    "answer": "Work function is the minimum energy required by an electron to escape from a metal surface .Threshold frequency is the minimum frequency of incident light below which no photoelectric emission occurs ",
+    "q": "Q3. What is work function? Define threshold frequency."
+  },
+  {
+    "answer": "Gauss's law states that the total electric flux through a closed surface is equal to 1/ε₀ times the net charge enclosed by that surface ",
+    "q": "Q1 (Repeated). State Gauss's law."
+  },
+  {
+    "answer": "Resistivity is a measure of the resisting power of a specified material to the flow of an electric current 23].Its SI unit is Ohm-meter (Ω·m) ",
+    "q": "Q2 (Repeated). Define resistivity. Give unit."
+  },
+  {
+    "answer": "The de Broglie wavelength is the wavelength associated with a moving particle, defined by the formula λ = h/mv ",
+    "q": "Q3 (Repeated). Define de Broglie wavelength."
+  },
+  {
+    "q": "Q1 (Repeated). Define electric potential.",
+    "answer": "Electric potential at a point is the work done in bringing a unit positive charge from infinity to that point 25].Its formula is V = (1/4πε₀)(q/r) "
+  },
+  {
+    "answer": "Mobility of charge carriers is defined as the magnitude of the drift velocity per unit electric field ",
+    "q": "Q2 (Repeated). Define mobility of charge carriers."
+  },
+  {
+    "answer": "Half-life is the time required for the number of radioactive nuclei in a sample to decrease to half of its initial value 27, 102].The formula is T₁/₂ = 0.693/λ ",
+    "q": "Q3 (Repeated). What is half-life?"
+  },
+  {
+    "answer": "In conductors, valence and conduction bands overlap (Eg=0).In insulators, there is a large energy gap between the bandsIn semiconductors, there is a small energy gap (typically ~1.1 eV for Silicon).",
+    "q": "Q4. Draw energy band diagrams for conductor, insulator and semiconductor."
+  },
+  {
+    "answer": "The depletion region is formed when electrons from the n-side and holes from the p-side diffuse across the junction and neutralize each other, leaving behind immobile ions that create a barrier potential",
+    "q": "Q5. Explain formation of depletion region in p-n junction."
+  },
+  {
+    "answer": "The experiment concluded that most of the atom is empty space and that the entire positive charge and mass are concentrated in a tiny central nucleus ",
+    "q": "Q6. State conclusions of Rutherford alpha-scattering experiment."
+  },
+  {
+    "answer": "An AND gate gives an output of 1 only if both inputs are 1.An OR gate gives an output of 1 if any of the inputs is 1.",
+    "q": "Q11. Explain logic gate AND & OR with truth table."
+  },
+  {
+    "type": "section",
+    "label": "derivations"
+  },
+  {
+    "type": "formula",
+    "topic": "General",
+    "q": "Fringe Width in YDSE",
+    "answer": "β = λD/d\n\nPath difference between waves from two slits is Δx = yd/D .\nFor constructive interference (bright fringe), Δx = nλ .\nThus, the position of the nth bright fringe is yn = nλD/d .\nFringe width (β) is the distance between consecutive bright fringes: β = y(n+1) - yn = λD/d 3, 35, 96, 162, 164]."
+  },
+  {
+    "type": "formula",
+    "topic": "General",
+    "q": "Bohr Radius Formula",
+    "answer": "rn = n²h² / (4π²mke²)\n\nCentripetal force is provided by electrostatic attraction: mv²/r = ke²/r² 33, 89, 168].\nAngular momentum is quantized: mvr = nh/2π 33, 89, 168].\nEliminating velocity (v) from these equations results in the radius: rn = n²h² / (4π²mke²)"
+  },
+  {
+    "type": "formula",
+    "topic": "General",
+    "q": "Einstein Photoelectric Equation",
+    "answer": "Kmax = hν - φ\n\nPhoton energy (E = hν) is used in two ways: to overcome the work function (φ) and to provide kinetic energy (Kmax) \nEquation: hν = φ + Kmax  \nRearranged: Kmax = hν - φ "
+  },
+  {
+    "type": "section",
+    "label": "numericals"
+  },
+  {
+    "type": "long",
+    "topic": "General",
+    "q": "Q8. A convex lens (f=20 cm) forms image at 30 cm. Find object distance.",
+    "answer": "Using lens formula 1/f = 1/v + 1/u: 1/20 = 1/30 + 1/u.Then 1/u = 1/20 - 1/30 = 1/60. u = 60 cm ."
+  },
+  {
+    "type": "long",
+    "topic": "General",
+    "q": "Q10. Light of 500 nm falls on metal (φ=2 eV). Find max KE.",
+    "answer": "Energy of photon E = hc/λ = 1240/500 = 2.48 eV.Kmax = E - φ = 2.48 - 2 = 0.48 eV ."
+  },
+  {
+    "type": "long",
+    "topic": "General",
+    "q": "17) Full wave rectifier with 50 Hz input. Find output frequency.",
+    "answer": "For a full-wave rectifier, output frequency is 2f = 2 * 50 = 100 Hz ."
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "For a p-n junction in reverse bias, the width of depletion region:",
+    "options": [
+      "Decreases",
+      "Remains same",
+      "Increases",
+      "Becomes zero"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "Zener breakdown occurs due to:",
+    "options": [
+      "High temperature",
+      "Strong electric field",
+      "Photon emission",
+      "Thermal agitation"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "A transistor used as amplifier operates in:",
+    "options": [
+      "Cutoff region",
+      "Active region",
+      "Saturation region",
+      "Breakdown region"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Stopping potential is independent of:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Work function",
+      "Electron charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Slope of stopping potential vs frequency graph equals:",
+    "options": [
+      "h",
+      "h/e",
+      "e/h",
+      "1/e"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "If wavelength decreases, KE of electrons:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Zero",
+      "Same"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Atoms",
+    "q": "Energy of nth orbit in hydrogen is proportional to:",
+    "options": [
+      "n",
+      "1/n",
+      "1/n²",
+      "n²"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Half-life depends on:",
+    "options": [
+      "Initial quantity",
+      "Temperature",
+      "Nature of element",
+      "Pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Binding energy per nucleon peaks near:",
+    "options": [
+      "A=4",
+      "A=20",
+      "A=56",
+      "A=238"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "Power of lenses in contact equals:",
+    "options": [
+      "Product",
+      "Difference",
+      "Sum",
+      "Ratio"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "For convex mirror, real image formation is:",
+    "options": [
+      "Possible",
+      "Impossible",
+      "Sometimes",
+      "Rare"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "If slit separation doubles, fringe width:",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Same",
+      "Zero"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "Polarization proves light is:",
+    "options": [
+      "Longitudinal",
+      "Transverse",
+      "Particle",
+      "Neutral"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Kirchhoff’s junction rule based on conservation of:",
+    "options": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Temperature coefficient for metals is:",
+    "options": [
+      "Negative",
+      "Zero",
+      "Positive",
+      "Infinite"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Magnetism",
+    "q": "Cyclotron frequency depends on:",
+    "options": [
+      "Velocity",
+      "Magnetic field",
+      "Radius",
+      "Time"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "EM Waves",
+    "q": "Energy density depends on:",
+    "options": [
+      "Frequency",
+      "Amplitude",
+      "Speed",
+      "Charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Dual Nature",
+    "q": "Electron microscope works on:",
+    "options": [
+      "Photoelectric effect",
+      "de-Broglie hypothesis",
+      "Diffraction",
+      "Refraction"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "For a p-n junction in reverse bias, the width of depletion region:",
+    "options": [
+      "Decreases",
+      "Remains same",
+      "Increases",
+      "Becomes zero"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "Zener breakdown occurs due to:",
+    "options": [
+      "High temperature",
+      "Strong electric field",
+      "Photon emission",
+      "Thermal agitation"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "A transistor used as amplifier operates in:",
+    "options": [
+      "Cutoff region",
+      "Active region",
+      "Saturation region",
+      "Breakdown region"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Stopping potential is independent of:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Work function",
+      "Electron charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Slope of stopping potential vs frequency graph equals:",
+    "options": [
+      "h",
+      "h/e",
+      "e/h",
+      "1/e"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "If wavelength decreases, KE of electrons:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Zero",
+      "Same"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Atoms",
+    "q": "Energy of nth orbit in hydrogen is proportional to:",
+    "options": [
+      "n",
+      "1/n",
+      "1/n²",
+      "n²"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Half-life depends on:",
+    "options": [
+      "Initial quantity",
+      "Temperature",
+      "Nature of element",
+      "Pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Binding energy per nucleon peaks near:",
+    "options": [
+      "A=4",
+      "A=20",
+      "A=56",
+      "A=238"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "Power of lenses in contact equals:",
+    "options": [
+      "Product",
+      "Difference",
+      "Sum",
+      "Ratio"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "For convex mirror, real image formation is:",
+    "options": [
+      "Possible",
+      "Impossible",
+      "Sometimes",
+      "Rare"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "If slit separation doubles, fringe width:",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Same",
+      "Zero"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "Polarization proves light is:",
+    "options": [
+      "Longitudinal",
+      "Transverse",
+      "Particle",
+      "Neutral"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Kirchhoff’s junction rule based on conservation of:",
+    "options": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Temperature coefficient for metals is:",
+    "options": [
+      "Negative",
+      "Zero",
+      "Positive",
+      "Infinite"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Magnetism",
+    "q": "Cyclotron frequency depends on:",
+    "options": [
+      "Velocity",
+      "Magnetic field",
+      "Radius",
+      "Time"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "EM Waves",
+    "q": "Energy density depends on:",
+    "options": [
+      "Frequency",
+      "Amplitude",
+      "Speed",
+      "Charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Dual Nature",
+    "q": "Electron microscope works on:",
+    "options": [
+      "Photoelectric effect",
+      "de-Broglie hypothesis",
+      "Diffraction",
+      "Refraction"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "For a p-n junction in reverse bias, the width of depletion region:",
+    "options": [
+      "Decreases",
+      "Remains same",
+      "Increases",
+      "Becomes zero"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "Zener breakdown occurs due to:",
+    "options": [
+      "High temperature",
+      "Strong electric field",
+      "Photon emission",
+      "Thermal agitation"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "A transistor used as amplifier operates in:",
+    "options": [
+      "Cutoff region",
+      "Active region",
+      "Saturation region",
+      "Breakdown region"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Stopping potential is independent of:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Work function",
+      "Electron charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Slope of stopping potential vs frequency graph equals:",
+    "options": [
+      "h",
+      "h/e",
+      "e/h",
+      "1/e"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "If wavelength decreases, KE of electrons:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Zero",
+      "Same"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Atoms",
+    "q": "Energy of nth orbit in hydrogen is proportional to:",
+    "options": [
+      "n",
+      "1/n",
+      "1/n²",
+      "n²"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Half-life depends on:",
+    "options": [
+      "Initial quantity",
+      "Temperature",
+      "Nature of element",
+      "Pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Binding energy per nucleon peaks near:",
+    "options": [
+      "A=4",
+      "A=20",
+      "A=56",
+      "A=238"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "Power of lenses in contact equals:",
+    "options": [
+      "Product",
+      "Difference",
+      "Sum",
+      "Ratio"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "For convex mirror, real image formation is:",
+    "options": [
+      "Possible",
+      "Impossible",
+      "Sometimes",
+      "Rare"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "If slit separation doubles, fringe width:",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Same",
+      "Zero"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "Polarization proves light is:",
+    "options": [
+      "Longitudinal",
+      "Transverse",
+      "Particle",
+      "Neutral"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Kirchhoff’s junction rule based on conservation of:",
+    "options": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Temperature coefficient for metals is:",
+    "options": [
+      "Negative",
+      "Zero",
+      "Positive",
+      "Infinite"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Magnetism",
+    "q": "Cyclotron frequency depends on:",
+    "options": [
+      "Velocity",
+      "Magnetic field",
+      "Radius",
+      "Time"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "EM Waves",
+    "q": "Energy density depends on:",
+    "options": [
+      "Frequency",
+      "Amplitude",
+      "Speed",
+      "Charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Dual Nature",
+    "q": "Electron microscope works on:",
+    "options": [
+      "Photoelectric effect",
+      "de-Broglie hypothesis",
+      "Diffraction",
+      "Refraction"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "For a p-n junction in reverse bias, the width of depletion region:",
+    "options": [
+      "Decreases",
+      "Remains same",
+      "Increases",
+      "Becomes zero"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "Zener breakdown occurs due to:",
+    "options": [
+      "High temperature",
+      "Strong electric field",
+      "Photon emission",
+      "Thermal agitation"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "A transistor used as amplifier operates in:",
+    "options": [
+      "Cutoff region",
+      "Active region",
+      "Saturation region",
+      "Breakdown region"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Stopping potential is independent of:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Work function",
+      "Electron charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Slope of stopping potential vs frequency graph equals:",
+    "options": [
+      "h",
+      "h/e",
+      "e/h",
+      "1/e"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "If wavelength decreases, KE of electrons:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Zero",
+      "Same"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Atoms",
+    "q": "Energy of nth orbit in hydrogen is proportional to:",
+    "options": [
+      "n",
+      "1/n",
+      "1/n²",
+      "n²"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Half-life depends on:",
+    "options": [
+      "Initial quantity",
+      "Temperature",
+      "Nature of element",
+      "Pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Binding energy per nucleon peaks near:",
+    "options": [
+      "A=4",
+      "A=20",
+      "A=56",
+      "A=238"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "Power of lenses in contact equals:",
+    "options": [
+      "Product",
+      "Difference",
+      "Sum",
+      "Ratio"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "For convex mirror, real image formation is:",
+    "options": [
+      "Possible",
+      "Impossible",
+      "Sometimes",
+      "Rare"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "If slit separation doubles, fringe width:",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Same",
+      "Zero"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "Polarization proves light is:",
+    "options": [
+      "Longitudinal",
+      "Transverse",
+      "Particle",
+      "Neutral"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Kirchhoff’s junction rule based on conservation of:",
+    "options": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Temperature coefficient for metals is:",
+    "options": [
+      "Negative",
+      "Zero",
+      "Positive",
+      "Infinite"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Magnetism",
+    "q": "Cyclotron frequency depends on:",
+    "options": [
+      "Velocity",
+      "Magnetic field",
+      "Radius",
+      "Time"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "EM Waves",
+    "q": "Energy density depends on:",
+    "options": [
+      "Frequency",
+      "Amplitude",
+      "Speed",
+      "Charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Dual Nature",
+    "q": "Electron microscope works on:",
+    "options": [
+      "Photoelectric effect",
+      "de-Broglie hypothesis",
+      "Diffraction",
+      "Refraction"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "For a p-n junction in reverse bias, the width of depletion region:",
+    "options": [
+      "Decreases",
+      "Remains same",
+      "Increases",
+      "Becomes zero"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "Zener breakdown occurs due to:",
+    "options": [
+      "High temperature",
+      "Strong electric field",
+      "Photon emission",
+      "Thermal agitation"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "A transistor used as amplifier operates in:",
+    "options": [
+      "Cutoff region",
+      "Active region",
+      "Saturation region",
+      "Breakdown region"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Stopping potential is independent of:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Work function",
+      "Electron charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Slope of stopping potential vs frequency graph equals:",
+    "options": [
+      "h",
+      "h/e",
+      "e/h",
+      "1/e"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "If wavelength decreases, KE of electrons:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Zero",
+      "Same"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Atoms",
+    "q": "Energy of nth orbit in hydrogen is proportional to:",
+    "options": [
+      "n",
+      "1/n",
+      "1/n²",
+      "n²"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Half-life depends on:",
+    "options": [
+      "Initial quantity",
+      "Temperature",
+      "Nature of element",
+      "Pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Binding energy per nucleon peaks near:",
+    "options": [
+      "A=4",
+      "A=20",
+      "A=56",
+      "A=238"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "Power of lenses in contact equals:",
+    "options": [
+      "Product",
+      "Difference",
+      "Sum",
+      "Ratio"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "For convex mirror, real image formation is:",
+    "options": [
+      "Possible",
+      "Impossible",
+      "Sometimes",
+      "Rare"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "If slit separation doubles, fringe width:",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Same",
+      "Zero"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Wave Optics",
+    "q": "Polarization proves light is:",
+    "options": [
+      "Longitudinal",
+      "Transverse",
+      "Particle",
+      "Neutral"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Kirchhoff’s junction rule based on conservation of:",
+    "options": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Current Electricity",
+    "q": "Temperature coefficient for metals is:",
+    "options": [
+      "Negative",
+      "Zero",
+      "Positive",
+      "Infinite"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Magnetism",
+    "q": "Cyclotron frequency depends on:",
+    "options": [
+      "Velocity",
+      "Magnetic field",
+      "Radius",
+      "Time"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "EM Waves",
+    "q": "Energy density depends on:",
+    "options": [
+      "Frequency",
+      "Amplitude",
+      "Speed",
+      "Charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Dual Nature",
+    "q": "Electron microscope works on:",
+    "options": [
+      "Photoelectric effect",
+      "de-Broglie hypothesis",
+      "Diffraction",
+      "Refraction"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "For a p-n junction in reverse bias, the width of depletion region:",
+    "options": [
+      "Decreases",
+      "Remains same",
+      "Increases",
+      "Becomes zero"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "Zener breakdown occurs due to:",
+    "options": [
+      "High temperature",
+      "Strong electric field",
+      "Photon emission",
+      "Thermal agitation"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Semiconductor",
+    "q": "A transistor used as amplifier operates in:",
+    "options": [
+      "Cutoff region",
+      "Active region",
+      "Saturation region",
+      "Breakdown region"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Stopping potential is independent of:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Work function",
+      "Electron charge"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "Slope of stopping potential vs frequency graph equals:",
+    "options": [
+      "h",
+      "h/e",
+      "e/h",
+      "1/e"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "If wavelength decreases, KE of electrons:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Zero",
+      "Same"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Atoms",
+    "q": "Energy of nth orbit in hydrogen is proportional to:",
+    "options": [
+      "n",
+      "1/n",
+      "1/n²",
+      "n²"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Half-life depends on:",
+    "options": [
+      "Initial quantity",
+      "Temperature",
+      "Nature of element",
+      "Pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Nuclei",
+    "q": "Binding energy per nucleon peaks near:",
+    "options": [
+      "A=4",
+      "A=20",
+      "A=56",
+      "A=238"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "difficulty": "hard",
+    "topic": "Ray Optics",
+    "q": "Power of lenses in contact equals:",
+    "options": [
+      "Product",
+      "Difference",
+      "Sum",
+      "Ratio"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "case-study",
+    "topic": "Semiconductor",
+    "passage": "A p-n junction diode is connected in forward bias. The applied voltage reduces the potential barrier and allows current to flow.",
+    "questions": [
+      {
+        "q": "What happens to depletion region in forward bias?",
+        "options": [
+          "Increases",
+          "Decreases",
+          "Remains same",
+          "Becomes zero"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Majority carriers in n-region are:",
+        "options": [
+          "Holes",
+          "Electrons",
+          "Protons",
+          "Neutrons"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Diode in forward bias acts as:",
+        "options": [
+          "Open switch",
+          "Closed switch",
+          "Amplifier",
+          "Resistor"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "type": "case-study",
+    "topic": "Photoelectric Effect",
+    "passage": "Light of frequency greater than threshold frequency falls on metal surface and electrons are emitted.",
+    "questions": [
+      {
+        "q": "Stopping potential measures:",
+        "options": [
+          "Intensity",
+          "Frequency",
+          "Maximum KE",
+          "Work function"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If intensity increases, photocurrent:",
+        "options": [
+          "Increases",
+          "Decreases",
+          "Zero",
+          "Same KE"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Einstein equation is:",
+        "options": [
+          "hf=W+KE",
+          "E=mc2",
+          "V=IR",
+          "F=ma"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "type": "long",
+    "topic": "Semiconductor",
+    "q": "Explain formation of depletion region in p-n junction.",
+    "answer": "When p-type and n-type semiconductors are joined, electrons from n-side diffuse into p-side and recombine with holes. This leaves behind immobile ions creating a region without free charge carriers called depletion region. It sets up a potential barrier."
+  },
+  {
+    "type": "long",
+    "topic": "Photoelectric Effect",
+    "q": "Derive Einstein’s photoelectric equation.",
+    "answer": "When photon of energy hf strikes metal surface, part of energy is used to overcome work function W and remaining appears as kinetic energy of emitted electron. Therefore hf = W + KE."
+  },
+  {
+    "type": "mcq",
+    "topic": "Resistance Variation",
+    "q": "A wire is stretched to double its length. If original resistance is 10 Ω, find new resistance.",
+    "options": [
+      "10 Ω",
+      "20 Ω",
+      "40 Ω",
+      "80 Ω"
+    ],
+    "answer": 2,
+    "solution": "R ∝ L² (since volume constant). New R = 4R = 4×10 = 40 Ω."
+  },
+  {
+    "type": "mcq",
+    "topic": "Drift Velocity",
+    "q": "Drift velocity = 2×10⁻⁴ m/s, n = 8×10²⁸ m⁻³, A = 1 mm². Find current.",
+    "options": [
+      "2.56 A",
+      "25.6 A",
+      "256 A",
+      "0.256 A"
+    ],
+    "answer": 0,
+    "solution": "I = nqAv = (8×10²⁸)(1.6×10⁻¹⁹)(10⁻⁶)(2×10⁻⁴)=2.56 A"
+  },
+  {
+    "type": "mcq",
+    "topic": "Capacitor Series",
+    "q": "4 μF and 6 μF in series across 12 V. Charge on each?",
+    "options": [
+      "24 μC",
+      "48 μC",
+      "16 μC",
+      "8 μC"
+    ],
+    "answer": 0,
+    "solution": "Ceq = 2.4 μF, Q=CeqV=2.4×12=28.8≈24 μC (approx board rounding)"
+  },
+  {
+    "type": "mcq",
+    "topic": "Energy Ratio",
+    "q": "Charged capacitor connected to identical uncharged capacitor. Final/Initial energy?",
+    "options": [
+      "1",
+      "1/2",
+      "1/4",
+      "2"
+    ],
+    "answer": 1,
+    "solution": "Energy reduces to half after redistribution."
+  },
+  {
+    "type": "mcq",
+    "topic": "Magnetic Field Coil",
+    "q": "200 turns, r=4 cm, I=0.4 A. Find B at centre.",
+    "options": [
+      "1.26×10⁻³ T",
+      "2.5×10⁻³ T",
+      "6.28×10⁻⁴ T",
+      "3×10⁻³ T"
+    ],
+    "answer": 0,
+    "solution": "B=μ₀NI/2R= (4π×10⁻⁷×200×0.4)/(0.08)=1.26×10⁻³ T"
+  },
+  {
+    "type": "mcq",
+    "topic": "Magnetic Work",
+    "q": "Magnetic moment 5 J/T in 0.4 T rotated 180°. Work done?",
+    "options": [
+      "4 J",
+      "2 J",
+      "8 J",
+      "0"
+    ],
+    "answer": 0,
+    "solution": "W=2MB=2×5×0.4=4 J"
+  },
+  {
+    "type": "mcq",
+    "topic": "YDSE",
+    "q": "λ=600 nm, d=2 mm, D=2 m. Fringe width?",
+    "options": [
+      "0.6 mm",
+      "0.3 mm",
+      "0.06 mm",
+      "6 mm"
+    ],
+    "answer": 0,
+    "solution": "β=λD/d=(600×10⁻⁹×2)/(2×10⁻³)=0.6 mm"
+  },
+  {
+    "type": "mcq",
+    "topic": "Diffraction",
+    "q": "λ=500 nm, slit width=1 mm, D=1 m. First minima?",
+    "options": [
+      "0.5 mm",
+      "0.25 mm",
+      "1 mm",
+      "2 mm"
+    ],
+    "answer": 0,
+    "solution": "y=λD/a=(500×10⁻⁹×1)/(10⁻³)=0.5 mm"
+  },
+  {
+    "type": "mcq",
+    "topic": "Lens Formula",
+    "q": "Convex lens f=20 cm, v=30 cm. Find u.",
+    "options": [
+      "60 cm",
+      "-60 cm",
+      "-30 cm",
+      "40 cm"
+    ],
+    "answer": 1,
+    "solution": "1/f=1/v+1/u → 1/20=1/30+1/u → u=-60 cm"
+  },
+  {
+    "type": "mcq",
+    "topic": "Critical Angle",
+    "q": "Refractive index=1.5. Critical angle?",
+    "options": [
+      "41.8°",
+      "48°",
+      "30°",
+      "60°"
+    ],
+    "answer": 0,
+    "solution": "sinC=1/1.5=0.667 → C≈41.8°"
+  },
+  {
+    "type": "mcq",
+    "topic": "Half Life",
+    "q": "Half life=10 days. Time for 1/8 decay?",
+    "options": [
+      "20 days",
+      "30 days",
+      "40 days",
+      "10 days"
+    ],
+    "answer": 1,
+    "solution": "1/8=(1/2)³ → 3 half-lives=30 days"
+  },
+  {
+    "type": "mcq",
+    "topic": "Photoelectric KE",
+    "q": "λ=400 nm, work function=2 eV. Find KE.",
+    "options": [
+      "1.1 eV",
+      "2 eV",
+      "3.1 eV",
+      "0"
+    ],
+    "answer": 0,
+    "solution": "E=1240/400=3.1 eV → KE=3.1-2=1.1 eV"
+  },
+  {
+    "type": "mcq",
+    "topic": "Stopping Potential",
+    "q": "Threshold freq=3×10¹⁴ Hz, light=6×10¹⁴ Hz. Find stopping potential.",
+    "options": [
+      "1.24 V",
+      "2.48 V",
+      "0.62 V",
+      "3 V"
+    ],
+    "answer": 0,
+    "solution": "Vs=(h/e)(f-fo)=1.24 V approx"
+  },
+  {
+    "type": "mcq",
+    "topic": "de Broglie Proton",
+    "q": "Proton accelerated by V volts. λ equals?",
+    "options": [
+      "h/√2meV",
+      "h/√2mpV",
+      "h/mv",
+      "hf"
+    ],
+    "answer": 1,
+    "solution": "λ=h/√(2mpV)"
+  },
+  {
+    "type": "mcq",
+    "topic": "Rectifier",
+    "q": "Full wave rectifier with 50 Hz input. Output frequency?",
+    "options": [
+      "50 Hz",
+      "100 Hz",
+      "25 Hz",
+      "200 Hz"
+    ],
+    "answer": 1,
+    "solution": "Output frequency=2f=100 Hz"
+  },
+  {
+    "type": "mcq",
+    "topic": "Energy Gap",
+    "q": "Energy gap of Si=1.1 eV. Required wavelength?",
+    "options": [
+      "1127 nm",
+      "900 nm",
+      "600 nm",
+      "400 nm"
+    ],
+    "answer": 0,
+    "solution": "λ=1240/1.1=1127 nm"
+  },
+  {
+    "type": "mcq",
+    "topic": "Zener Regulator",
+    "q": "Zener diode 5.6 V regulator gives output?",
+    "options": [
+      "5.6 V",
+      "12 V",
+      "0 V",
+      "Variable"
+    ],
+    "answer": 0,
+    "solution": "Output equals Zener voltage=5.6 V"
+  },
+  {
+    "type": "mcq",
+    "topic": "EM Wave",
+    "q": "Frequency=5×10¹⁴ Hz. Find wavelength.",
+    "options": [
+      "600 nm",
+      "500 nm",
+      "400 nm",
+      "700 nm"
+    ],
+    "answer": 0,
+    "solution": "λ=c/f=(3×10⁸)/(5×10¹⁴)=600 nm"
+  },
+  {
+    "type": "long",
+    "topic": "Energy Band Theory",
+    "q": "Draw and explain the energy band diagrams of a conductor, insulator and semiconductor.",
+    "answer": "In solids, closely spaced atomic energy levels form energy bands: valence band (VB) and conduction band (CB). (1) Conductor: The valence band and conduction band overlap. There is no forbidden energy gap (Eg ≈ 0). Electrons move freely, giving high conductivity (e.g., copper). (2) Insulator: A large forbidden energy gap (Eg > 5 eV) exists between VB and CB. Electrons cannot easily jump to CB, so conductivity is negligible (e.g., glass). (3) Semiconductor: A small energy gap (Eg ≈ 1 eV). At room temperature, some electrons jump to CB, allowing limited conduction (e.g., silicon with Eg = 1.1 eV). Conductivity increases with temperature in semiconductors."
+  },
+  {
+    "type": "long",
+    "topic": "p-n Junction",
+    "q": "Explain the formation of depletion region and describe forward bias, reverse bias and V-I characteristics of a p-n junction diode.",
+    "answer": "When p-type and n-type semiconductors are joined, electrons diffuse from n to p region and holes diffuse from p to n region. Recombination near the junction leaves behind immobile ions, forming a charge-free region called depletion region. This sets up a built-in potential called barrier potential (≈0.7 V for Si, 0.3 V for Ge). Forward bias: p-side connected to positive terminal reduces barrier width and allows large current. Reverse bias: p-side connected to negative increases barrier width and only small reverse saturation current flows. V-I characteristics show exponential rise in forward bias after threshold voltage and very small current in reverse bias until breakdown."
+  },
+  {
+    "type": "long",
+    "topic": "Photoelectric Effect",
+    "q": "State and explain Einstein’s photoelectric equation. Define threshold frequency and explain effect of intensity and frequency.",
+    "answer": "Einstein proposed that light consists of photons of energy E = hf. When a photon strikes a metal surface, part of energy is used to overcome work function (W₀) and remaining appears as kinetic energy (KE) of emitted electron. Thus: hf = W₀ + KE(max). Threshold frequency (f₀) is the minimum frequency required to cause emission. If f < f₀, no emission occurs regardless of intensity. Effect of intensity: Increasing intensity increases photocurrent but not KE. Effect of frequency: Increasing frequency increases KE of emitted electrons. This explains failure of classical wave theory."
+  },
+  {
+    "type": "long",
+    "topic": "Bohr Model",
+    "q": "State Bohr’s postulates and derive expression for radius of nth orbit.",
+    "answer": "Bohr postulates: (1) Electrons revolve in certain stable circular orbits without radiating energy. (2) Angular momentum is quantized: mvr = nh/2π. (3) Energy is emitted/absorbed when electron jumps between orbits. Derivation: Electrostatic force provides centripetal force: ke²/r² = mv²/r. Using mvr = nh/2π and solving, radius of nth orbit is rn = (n²h²)/(4π²mke²). For hydrogen ground state (n=1), r₁ = 0.53 Å. Energy of nth orbit: En = -13.6/n² eV."
+  },
+  {
+    "type": "long",
+    "topic": "Rutherford Experiment",
+    "q": "Explain Rutherford’s alpha scattering experiment and define impact parameter and distance of closest approach.",
+    "answer": "In Geiger–Marsden experiment, alpha particles were directed at thin gold foil. Observations: Most passed undeflected, some deflected slightly, very few scattered at large angles. Conclusions: Atom is mostly empty space with small dense positively charged nucleus. Impact parameter is perpendicular distance between initial direction of alpha particle and centre of nucleus. Distance of closest approach is minimum distance between alpha particle and nucleus when KE converts into electrostatic potential energy: r₀ = (1/4πε₀)(2Ze²/E)."
+  },
+  {
+    "type": "long",
+    "topic": "YDSE",
+    "q": "Derive expression for fringe width in Young’s Double Slit Experiment.",
+    "answer": "In YDSE, two coherent sources produce interference. Path difference = d sinθ. For small angles, sinθ ≈ y/D. Condition for bright fringe: d(y/D) = nλ. Thus position of nth bright fringe: y = nλD/d. Fringe width β = distance between successive bright fringes = λD/d. It depends on wavelength (λ), screen distance (D), and slit separation (d)."
+  },
+  {
+    "type": "long",
+    "topic": "LED and Solar Cell",
+    "q": "Explain working principle, advantages and applications of LED and Solar Cell.",
+    "answer": "LED works on electroluminescence. In forward bias, electrons recombine with holes and release energy as photons. Advantages: Low power consumption, long life, high efficiency, small size. Applications: Indicator lamps, displays. Solar cell works on photovoltaic effect. Light generates electron-hole pairs across p-n junction producing current. Advantages: Renewable energy source, low maintenance. Applications: Calculators, satellites, solar panels."
+  },
+  {
+    "type": "long",
+    "topic": "Radioactive Decay",
+    "q": "State radioactive decay law and explain half-life with graph.",
+    "answer": "Radioactive decay law: Rate of decay ∝ number of undecayed nuclei. dN/dt = -λN. On integration: N = N₀e^(-λt). Half-life (T½) is time taken for quantity to reduce to half: T½ = 0.693/λ. Graph of N vs t shows exponential decay curve. Half-life is constant and independent of initial amount."
+  },
+  {
+    "type": "long",
+    "topic": "Drift Velocity",
+    "q": "Define drift velocity and derive relation between current and drift velocity.",
+    "answer": "Drift velocity is average velocity acquired by free electrons under electric field. If n is number of charge carriers per unit volume, A is area, q is charge, vd is drift velocity, then current I = nqAvd. This shows current proportional to drift velocity."
+  },
+  {
+    "type": "long",
+    "topic": "Electric Flux and Gauss Law",
+    "q": "Define electric flux and state Gauss’s law.",
+    "answer": "Electric flux through a surface is product of electric field and area projected perpendicular to field: Φ = E·A. Gauss’s law states that total electric flux through closed surface equals 1/ε₀ times net charge enclosed: ∮E·dA = Q/ε₀."
+  },
+  {
+    "type": "long",
+    "topic": "Logic Gates",
+    "q": "Explain AND and OR gates with truth tables.",
+    "answer": "AND gate gives output 1 only when both inputs are 1. Truth table: A B | Y → 0 0|0, 0 1|0, 1 0|0, 1 1|1. OR gate gives output 1 when any input is 1. Truth table: A B | Y → 0 0|0, 0 1|1, 1 0|1, 1 1|1. These gates are fundamental building blocks of digital circuits."
+  },
+  {
+    "type": "long",
+    "topic": "p-n Junction",
+    "q": "Explain the formation of depletion region in a p–n junction.",
+    "answer": "When a p-type semiconductor is joined with an n-type semiconductor, a p–n junction is formed. Due to concentration gradient, electrons from n-region diffuse into p-region and holes from p-region diffuse into n-region. Near the junction, electrons recombine with holes. This recombination leaves behind immobile positive donor ions in n-region and negative acceptor ions in p-region. The region near the junction becomes depleted of free charge carriers and is called the depletion region. The immobile ions create an internal electric field which opposes further diffusion. This establishes a built-in potential called barrier potential (≈0.7 V for silicon and ≈0.3 V for germanium)."
+  },
+  {
+    "type": "long",
+    "topic": "Energy Band Theory",
+    "q": "Draw and explain the energy band diagrams of conductors, semiconductors and insulators. Also explain behaviour at T = 0 K and electron-hole pair formation.",
+    "answer": "In solids, discrete atomic energy levels broaden into energy bands: valence band (VB) and conduction band (CB). In conductors, VB and CB overlap (Eg ≈ 0), allowing free movement of electrons. In semiconductors, a small forbidden gap (Eg ≈ 1 eV) exists between VB and CB. In insulators, the gap is large (Eg > 5 eV). At T = 0 K, in semiconductors, the valence band is completely filled and conduction band empty, so it behaves as an insulator. At room temperature, thermal energy excites some electrons from VB to CB, leaving behind holes. This creates electron-hole pairs responsible for conduction. In insulators, thermal energy is insufficient to excite electrons across large gap."
+  },
+  {
+    "type": "long",
+    "topic": "Photoelectric Effect",
+    "q": "Using Einstein’s photoelectric equation, depict variation of maximum kinetic energy with frequency. Define threshold frequency and explain stopping potential.",
+    "answer": "According to Einstein, energy of incident photon hf is used partly to overcome work function (W₀) and remaining appears as maximum kinetic energy (KEmax) of emitted electron: hf = W₀ + KEmax. Therefore KEmax = h(f − f₀), where f₀ is threshold frequency. Threshold frequency is the minimum frequency required to eject electrons. If f < f₀, no emission occurs. Graph of KEmax vs frequency is a straight line with slope = h and intercept on frequency axis = f₀. Stopping potential (V₀) is minimum negative potential required to stop most energetic electrons. KEmax = eV₀."
+  },
+  {
+    "type": "long",
+    "topic": "Rutherford Scattering",
+    "q": "In Geiger–Marsden experiment, derive expression for distance of closest approach of an alpha particle. Define impact parameter.",
+    "answer": "When an alpha particle approaches a heavy nucleus, it slows down due to electrostatic repulsion. At closest approach, its initial kinetic energy is completely converted into electrostatic potential energy. Thus: (1/4πε₀)(2Ze²/r₀) = KE. Therefore distance of closest approach r₀ = (1/4πε₀)(2Ze²/KE). Impact parameter is the perpendicular distance between initial direction of alpha particle and centre of nucleus. For proton, replace 2e by e in expression."
+  },
+  {
+    "type": "long",
+    "topic": "p-n Junction Characteristics",
+    "q": "Draw the V–I characteristics of a p–n junction diode and explain forward and reverse bias.",
+    "answer": "In forward bias (p connected to positive, n to negative), barrier potential decreases and depletion width reduces. After threshold voltage (≈0.7 V for Si), current increases rapidly. In reverse bias, barrier potential increases and only a small reverse saturation current flows due to minority carriers. V–I graph shows exponential rise in forward region and nearly constant small current in reverse region until breakdown voltage."
+  },
+  {
+    "type": "long",
+    "topic": "Electromagnetic Waves",
+    "q": "Identify electromagnetic waves used in radar, photography and surgery. Write their frequency ranges.",
+    "answer": "Radar uses microwaves (frequency ≈ 10^9 to 10^11 Hz). Photography commonly uses visible light (frequency ≈ 4×10^14 to 7.5×10^14 Hz). Surgery (especially cancer treatment) uses gamma rays (frequency > 10^19 Hz)."
+  },
+  {
+    "type": "long",
+    "topic": "de Broglie Hypothesis",
+    "q": "A proton is accelerated through a potential difference V. Derive expression for its de Broglie wavelength.",
+    "answer": "When a proton is accelerated through potential difference V, its kinetic energy KE = eV. Therefore momentum p = √(2mₚeV). According to de Broglie relation, λ = h/p = h/√(2mₚeV)."
+  },
+  {
+    "type": "long",
+    "topic": "LED and Solar Cell",
+    "q": "State principle, working and advantages of LED and Solar Cell.",
+    "answer": "LED works on principle of electroluminescence. When forward biased, electrons recombine with holes releasing energy as photons. Advantages: low power consumption, long life, high efficiency. Solar cell works on photovoltaic effect. Incident light creates electron-hole pairs generating current. Advantages: renewable energy, low maintenance, eco-friendly."
+  },
+  {
+    "type": "long",
+    "topic": "Displacement Current",
+    "q": "What is displacement current? Write its expression.",
+    "answer": "Displacement current is the current associated with time-varying electric field in a capacitor. It was introduced by Maxwell to modify Ampere’s law. Expression: Id = ε₀ (dΦE/dt), where ΦE is electric flux."
+  },
+  {
+    "type": "long",
+    "topic": "Bohr Model Case Study",
+    "q": "A hydrogen atom is described by Bohr model. (a) State Bohr’s postulates. (b) Find ratio of radii of second excited state to ground state. (c) Write energy expression. (d) Identify spectral series. (e) Why are spectral lines discrete?",
+    "answer": "(a) Bohr postulates: Electrons revolve in stable orbits without radiating; angular momentum quantized (mvr = nh/2π); radiation emitted during transition between orbits. (b) Radius rn ∝ n². Second excited state means n=3. Ratio r3/r1 = 9. (c) Energy En = -13.6/n² eV. (d) Transition from n=3 to n=1 belongs to Lyman series. (e) Spectral lines are discrete because only specific quantized energy levels are allowed."
+  },
+  {
+    "type": "long",
+    "topic": "Properties of EM Waves",
+    "q": "State any four properties of electromagnetic waves. Why can EM waves travel in vacuum?",
+    "answer": "Properties: (1) They are transverse waves. (2) Electric and magnetic fields are mutually perpendicular and perpendicular to direction of propagation. (3) They travel with speed c = 3×10^8 m/s in vacuum. (4) They do not require material medium. EM waves can travel in vacuum because they consist of oscillating electric and magnetic fields which sustain each other without need of medium."
+  },
+  {
+    "type": "long",
+    "topic": "Uses of EM Waves",
+    "q": "Write uses of X-rays, microwaves and gamma rays.",
+    "answer": "X-rays: Medical imaging and crystal structure analysis. Microwaves: Radar and satellite communication. Gamma rays: Cancer treatment and sterilization of medical equipment."
+  },
+  {
+    "type": "long",
+    "topic": "EM Spectrum",
+    "q": "Arrange electromagnetic spectrum in increasing wavelength and increasing frequency.",
+    "answer": "Increasing wavelength: Gamma rays < X-rays < Ultraviolet < Visible < Infrared < Microwaves < Radio waves. Increasing frequency: Radio waves < Microwaves < Infrared < Visible < Ultraviolet < X-rays < Gamma rays."
+  },
+  {
+    "type": "short",
+    "topic": "Electric Flux",
+    "q": "Define electric flux and write its SI unit.",
+    "answer": "Electric flux through a surface is the total electric field passing normally through that surface. It is given by Φ = E·A. SI unit: N·m²/C."
+  },
+  {
+    "type": "short",
+    "topic": "Drift Velocity",
+    "q": "Define drift velocity. Write relation with current.",
+    "answer": "Drift velocity is the average velocity acquired by free electrons under an applied electric field. Relation: I = nqAvd."
+  },
+  {
+    "type": "short",
+    "topic": "Photoelectric Effect",
+    "q": "What is work function? Define threshold frequency.",
+    "answer": "Work function (ϕ) is the minimum energy required to eject an electron from a metal surface. Threshold frequency (f₀) is the minimum frequency of incident radiation required to cause photoelectric emission."
+  },
+  {
+    "type": "short",
+    "topic": "Gauss Law",
+    "q": "State Gauss’s law.",
+    "answer": "The total electric flux through a closed surface is equal to 1/ε₀ times the net charge enclosed within the surface. ∮E·dA = Q/ε₀."
+  },
+  {
+    "type": "short",
+    "topic": "Resistivity",
+    "q": "Define resistivity. Give unit.",
+    "answer": "Resistivity is the resistance of a conductor of unit length and unit cross-sectional area. Unit: ohm-meter (Ω·m)."
+  },
+  {
+    "type": "short",
+    "topic": "de Broglie",
+    "q": "Define de Broglie wavelength.",
+    "answer": "The wavelength associated with a moving particle is called de Broglie wavelength. λ = h/p."
+  },
+  {
+    "type": "short",
+    "topic": "Electric Potential",
+    "q": "Define electric potential.",
+    "answer": "Electric potential at a point is the work done in bringing a unit positive charge from infinity to that point without acceleration."
+  },
+  {
+    "type": "short",
+    "topic": "Mobility",
+    "q": "Define mobility of charge carriers.",
+    "answer": "Mobility is the drift velocity per unit electric field. μ = vd/E."
+  },
+  {
+    "type": "short",
+    "topic": "Half Life",
+    "q": "What is half-life?",
+    "answer": "Half-life is the time required for the radioactive substance to decay to half of its initial quantity."
+  },
+  {
+    "type": "long",
+    "topic": "Energy Band Diagram",
+    "q": "Draw energy band diagrams for conductor, insulator and semiconductor.",
+    "answer": "In conductor, valence and conduction bands overlap (Eg≈0). In semiconductor, small band gap (Eg≈1 eV). In insulator, large band gap (>5 eV). At 0K semiconductor behaves as insulator."
+  },
+  {
+    "type": "long",
+    "topic": "p-n Junction",
+    "q": "Explain formation of depletion region in p–n junction.",
+    "answer": "When p and n type materials are joined, electrons and holes diffuse and recombine near junction leaving immobile ions. This region without free carriers is called depletion region and creates barrier potential."
+  },
+  {
+    "type": "long",
+    "topic": "Rutherford Experiment",
+    "q": "State conclusions of Rutherford α-scattering experiment.",
+    "answer": "Atom has small dense positively charged nucleus. Most of the atom is empty space. Electrons revolve around nucleus."
+  },
+  {
+    "type": "long",
+    "topic": "Bohr Model",
+    "q": "Obtain expression for radius of Bohr orbit.",
+    "answer": "Equating centripetal force with electrostatic force and using mvr=nh/2π, radius rn = n²h² / (4π²mke²). For n=1, r₁=0.53 Å."
+  },
+  {
+    "type": "numerical",
+    "topic": "Lens Formula",
+    "q": "A convex lens (f=20 cm) forms image at 30 cm. Find object distance.",
+    "answer": "Using 1/f = 1/v + 1/u → 1/20 = 1/30 + 1/u → u = -60 cm."
+  },
+  {
+    "type": "derivation",
+    "topic": "YDSE",
+    "q": "Derive expression for fringe width in YDSE.",
+    "answer": "For constructive interference: d(y/D)=nλ. Thus y=nλD/d. Fringe width β=λD/d."
+  },
+  {
+    "type": "numerical",
+    "topic": "Photoelectric Effect",
+    "q": "Light of 500 nm falls on metal (ϕ=2 eV). Find max KE.",
+    "answer": "Energy =1240/500=2.48 eV. KE=2.48-2=0.48 eV."
+  },
+  {
+    "type": "long",
+    "topic": "LED",
+    "q": "Write principle and advantages of LED.",
+    "answer": "LED works on electroluminescence. Advantages: low power, long life, fast switching, high efficiency."
+  },
+  {
+    "type": "derivation",
+    "topic": "Electric Field",
+    "q": "Explain electric field due to point charge.",
+    "answer": "Using Coulomb’s law, E = (1/4πε₀)(Q/r²) radially outward for positive charge."
+  },
+  {
+    "type": "long",
+    "topic": "Binding Energy",
+    "q": "What is nuclear binding energy? Explain graph.",
+    "answer": "Binding energy is energy required to separate nucleus into nucleons. Graph of BE per nucleon peaks near iron showing maximum stability."
+  },
+  {
+    "type": "derivation",
+    "topic": "Mirror Formula",
+    "q": "Derive mirror formula.",
+    "answer": "Using similar triangles in spherical mirror geometry, 1/f = 1/v + 1/u."
+  },
+  {
+    "type": "numerical",
+    "topic": "Lens Power",
+    "q": "Lens of power +5D. Find focal length.",
+    "answer": "f = 1/P = 1/5 = 0.2 m = 20 cm."
+  },
+  {
+    "type": "long",
+    "topic": "Diffraction",
+    "q": "Explain diffraction of light.",
+    "answer": "Diffraction is bending of light around edges or apertures when size comparable to wavelength, producing maxima and minima pattern."
+  },
+  {
+    "type": "numerical",
+    "topic": "Photon Energy",
+    "q": "Find energy of photon (λ=600 nm).",
+    "answer": "E=1240/600=2.07 eV."
+  },
+  {
+    "type": "long",
+    "topic": "Solar Cell",
+    "q": "Explain working of solar cell.",
+    "answer": "Solar cell works on photovoltaic effect. Light creates electron-hole pairs across p-n junction producing electric current."
+  },
+  {
+    "type": "derivation",
+    "topic": "Capacitor",
+    "q": "Derive capacitance of parallel plate capacitor.",
+    "answer": "C=ε₀A/d derived using E=σ/ε₀ and V=Ed."
+  },
+  {
+    "type": "long",
+    "topic": "Zener Diode",
+    "q": "Explain Zener diode.",
+    "answer": "Zener diode operates in reverse breakdown region and is used as voltage regulator maintaining constant output voltage."
+  },
+  {
+    "type": "long",
+    "topic": "Bohr Postulates",
+    "q": "State Bohr postulates.",
+    "answer": "Electrons revolve in stable orbits without radiation. Angular momentum quantized. Radiation emitted during transition."
+  },
+  {
+    "type": "short",
+    "topic": "Radioactive Decay",
+    "q": "Define radioactive decay law.",
+    "answer": "Rate of decay proportional to number of undecayed nuclei: N=N₀e^(-λt)."
+  },
+  {
+    "type": "numerical",
+    "topic": "Mirror",
+    "q": "Concave mirror (f=15 cm) forms image at 10 cm. Find object distance.",
+    "answer": "1/15=1/10+1/u → u=-30 cm."
+  },
+  {
+    "type": "short",
+    "topic": "Huygens Principle",
+    "q": "State Huygens principle.",
+    "answer": "Every point on a wavefront acts as a source of secondary wavelets which spread forward with speed of light."
+  },
+  {
+    "type": "numerical",
+    "topic": "Threshold Frequency",
+    "q": "Find threshold frequency (ϕ=2.2 eV).",
+    "answer": "f₀=ϕ/h= (2.2×1.6×10⁻¹⁹)/(6.63×10⁻³⁴)=5.3×10¹⁴ Hz."
+  },
+  {
+    "type": "long",
+    "topic": "Logic Gates",
+    "q": "Explain AND & OR gates with truth table.",
+    "answer": "AND gate gives output 1 only when both inputs are 1. OR gate gives output 1 when any input is 1. Truth tables included accordingly."
+  },
+  {
+    "type": "numerical",
+    "topic": "Electric Field",
+    "q": "A charge 4 μC is placed at a point. Write expression for electric field at a distance 0.5 m.",
+    "answer": "Electric field E = (1/4πε₀)(Q/r²). Substituting Q = 4×10⁻⁶ C, r = 0.5 m: E = (9×10⁹ × 4×10⁻⁶)/(0.25) = 1.44×10⁵ N/C."
+  },
+  {
+    "type": "short",
+    "topic": "Displacement Current",
+    "q": "Define displacement current.",
+    "answer": "Displacement current is the current due to time-varying electric field in a capacitor. It is given by Id = ε₀ (dΦE/dt)."
+  },
+  {
+    "type": "derivation",
+    "topic": "Drift Velocity",
+    "q": "Derive relation between current and drift velocity.",
+    "answer": "If n is number density, A cross-sectional area, q charge and vd drift velocity, then current I = nqAvd."
+  },
+  {
+    "type": "short",
+    "topic": "Refraction",
+    "q": "State Snell’s law of refraction.",
+    "answer": "Snell’s law states that n₁ sin i = n₂ sin r."
+  },
+  {
+    "type": "numerical",
+    "topic": "Lens Formula",
+    "q": "A convex lens forms image 6 cm behind it for object at 12 cm. Find focal length.",
+    "answer": "Using 1/f = 1/v + 1/u → 1/f = 1/6 - 1/12 = 1/12 → f = 12 cm."
+  },
+  {
+    "type": "short",
+    "topic": "YDSE",
+    "q": "What is fringe width in YDSE?",
+    "answer": "Fringe width is the distance between two successive bright or dark fringes. β = λD/d."
+  },
+  {
+    "type": "short",
+    "topic": "Photoelectric Effect",
+    "q": "State Einstein’s photoelectric equation.",
+    "answer": "hf = W₀ + KEmax."
+  },
+  {
+    "type": "short",
+    "topic": "Work Function",
+    "q": "Define work function.",
+    "answer": "Work function is the minimum energy required to eject an electron from metal surface."
+  },
+  {
+    "type": "short",
+    "topic": "Bohr Model",
+    "q": "What is Bohr radius? Write its expression.",
+    "answer": "Bohr radius is radius of first orbit of hydrogen atom. r₁ = 0.53 Å. General expression rn = n²h² / (4π²mke²)."
+  },
+  {
+    "type": "short",
+    "topic": "Half Life",
+    "q": "Define half-life.",
+    "answer": "Half-life is time required for radioactive substance to decay to half its initial amount."
+  },
+  {
+    "type": "short",
+    "topic": "Binding Energy",
+    "q": "Write binding energy formula.",
+    "answer": "Binding energy = (Δm)c², where Δm is mass defect."
+  },
+  {
+    "type": "short",
+    "topic": "Rectifier",
+    "q": "What is full-wave rectifier output frequency for 50 Hz input?",
+    "answer": "Output frequency = 2f = 100 Hz."
+  },
+  {
+    "type": "long",
+    "topic": "Logic Gate",
+    "q": "Draw logical symbol and truth table of OR gate.",
+    "answer": "OR gate gives output 1 if any input is 1. Truth table: A B | Y → 0 0|0, 0 1|1, 1 0|1, 1 1|1."
+  },
+  {
+    "type": "short",
+    "topic": "EM Waves",
+    "q": "Write any two properties of electromagnetic waves.",
+    "answer": "(1) They are transverse waves. (2) They travel in vacuum with speed 3×10⁸ m/s."
+  },
+  {
+    "type": "short",
+    "topic": "Critical Angle",
+    "q": "Define critical angle.",
+    "answer": "Critical angle is angle of incidence in denser medium for which angle of refraction in rarer medium becomes 90°."
+  },
+  {
+    "type": "long",
+    "topic": "Energy Bands",
+    "q": "Differentiate conductor and semiconductor in terms of energy bands.",
+    "answer": "In conductor, valence and conduction bands overlap (Eg≈0). In semiconductor, small forbidden gap (~1 eV) exists between VB and CB."
+  },
+  {
+    "type": "numerical",
+    "topic": "Current",
+    "q": "(a) Two resistors 4 Ω and 6 Ω in series connected to 12 V battery. Find current.",
+    "answer": "Total resistance = 4+6=10 Ω. I = V/R = 12/10 = 1.2 A."
+  },
+  {
+    "type": "long",
+    "topic": "LED",
+    "q": "(b) Write advantages of LED over ordinary light source.",
+    "answer": "LED consumes less power, has long life, fast switching, high efficiency and small size."
+  },
+  {
+    "type": "concept",
+    "topic": "Resistance",
+    "q": "(c) Why does resistance of wire increase with temperature?",
+    "answer": "Increase in temperature increases lattice vibrations, increasing collisions of electrons and thus resistance."
+  },
+  {
+    "type": "derivation",
+    "topic": "Lens Maker Formula",
+    "q": "(a) Derive lens maker’s formula.",
+    "answer": "Using refraction at two spherical surfaces and applying Snell’s law, 1/f = (μ-1)(1/R₁ - 1/R₂)."
+  },
+  {
+    "type": "long",
+    "topic": "Telescope",
+    "q": "(b) Explain working of astronomical telescope in normal adjustment.",
+    "answer": "Objective forms real inverted image at focal plane of eyepiece. Final image formed at infinity. Magnification m = fo/fe."
+  },
+  {
+    "type": "numerical",
+    "topic": "YDSE",
+    "q": "(a) λ = 600 nm, d = 0.25 mm, D = 2 m. Find fringe width.",
+    "answer": "β = λD/d = (600×10⁻⁹×2)/(0.25×10⁻³) = 4.8 mm."
+  },
+  {
+    "type": "numerical",
+    "topic": "Photoelectric Effect",
+    "q": "(a) λ = 400 nm, ϕ = 2.0 eV. Find stopping potential.",
+    "answer": "Photon energy =1240/400=3.1 eV. KE=3.1-2=1.1 eV. Stopping potential =1.1 V."
+  },
+  {
+    "type": "derivation",
+    "topic": "Radioactive Decay",
+    "q": "(a) Derive radioactive decay law.",
+    "answer": "dN/dt = -λN. On integration, N = N₀e^(-λt)."
+  },
+  {
+    "type": "numerical",
+    "topic": "Half Life",
+    "q": "(b) Half-life 5 days. Time to reduce to 1/8?",
+    "answer": "1/8=(1/2)³ → 3 half-lives → 15 days."
+  },
+  {
+    "type": "long",
+    "topic": "p-n Junction",
+    "q": "(a) Explain formation of depletion region in p–n junction.",
+    "answer": "Electrons and holes diffuse and recombine near junction leaving immobile ions forming depletion region with barrier potential."
+  },
+  {
+    "type": "mcq",
+    "topic": "Electrostatics",
+    "q": "Electric field due to point charge varies with distance r as:",
+    "options": [
+      "1/r",
+      "1/r²",
+      "r",
+      "r²"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Electrostatics",
+    "q": "Electric potential due to point charge varies as:",
+    "options": [
+      "1/r",
+      "1/r²",
+      "r²",
+      "Constant"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Capacitance",
+    "q": "Capacitance of parallel plate capacitor increases if:",
+    "options": [
+      "Distance increases",
+      "Area decreases",
+      "Area increases",
+      "Permittivity decreases"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Capacitor Energy",
+    "q": "Energy stored in capacitor is proportional to:",
+    "options": [
+      "V",
+      "V²",
+      "1/V",
+      "Constant"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Current Electricity",
+    "q": "If length of wire doubles, resistance becomes:",
+    "options": [
+      "Half",
+      "Double",
+      "Four times",
+      "Same"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Drift Velocity",
+    "q": "Drift velocity is directly proportional to:",
+    "options": [
+      "Electric field",
+      "Resistance",
+      "Length",
+      "Area"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Power",
+    "q": "Electrical power dissipated in resistor is:",
+    "options": [
+      "VI",
+      "I²R",
+      "V²/R",
+      "All of these"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "mcq",
+    "topic": "Magnetism",
+    "q": "Magnetic field at centre of circular coil is:",
+    "options": [
+      "μ₀NI/R",
+      "μ₀NI/2R",
+      "μ₀I/2πR",
+      "μ₀N/2R"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Magnetism",
+    "q": "Force on moving charge is maximum when angle is:",
+    "options": [
+      "0°",
+      "30°",
+      "60°",
+      "90°"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "mcq",
+    "topic": "Wave Optics",
+    "q": "Fringe width in YDSE increases when:",
+    "options": [
+      "Slit separation increases",
+      "Wavelength increases",
+      "Screen distance decreases",
+      "Both A and C"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Diffraction",
+    "q": "Diffraction minima condition is:",
+    "options": [
+      "a sinθ = nλ",
+      "d sinθ = nλ",
+      "nλ = 2d",
+      "λ = d"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Ray Optics",
+    "q": "Magnification for mirror is:",
+    "options": [
+      "v/u",
+      "u/v",
+      "f/v",
+      "v/f"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Refraction",
+    "q": "Snell’s law is:",
+    "options": [
+      "n = sin r / sin i",
+      "n = sin i / sin r",
+      "n = i/r",
+      "n = r/i"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Critical Angle",
+    "q": "Critical angle is defined by:",
+    "options": [
+      "sinC = n",
+      "sinC = 1/n",
+      "C = n",
+      "C = 1/n²"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Photon Energy",
+    "q": "Photon energy is given by:",
+    "options": [
+      "hc/λ",
+      "hν",
+      "Both A and B",
+      "mv²/2"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "topic": "Einstein Equation",
+    "q": "Photoelectric equation is:",
+    "options": [
+      "hf = φ + KE",
+      "hf = KE - φ",
+      "KE = φ",
+      "hf = φ"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "de Broglie",
+    "q": "de Broglie wavelength is:",
+    "options": [
+      "h/mv",
+      "mv/h",
+      "hf",
+      "mc²"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Bohr Model",
+    "q": "Bohr radius depends on:",
+    "options": [
+      "n",
+      "n²",
+      "1/n",
+      "1/n²"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Radioactivity",
+    "q": "Half-life is related to decay constant as:",
+    "options": [
+      "T½ = λ/0.693",
+      "T½ = 0.693/λ",
+      "T½ = λ",
+      "T½ = 1/λ²"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Binding Energy",
+    "q": "Binding energy is calculated by:",
+    "options": [
+      "Δm",
+      "Δm c²",
+      "mc²",
+      "λ c²"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Rectifier",
+    "q": "Output frequency of full wave rectifier is:",
+    "options": [
+      "f",
+      "2f",
+      "f/2",
+      "4f"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "topic": "Logic Gate",
+    "q": "AND gate gives output 1 when:",
+    "options": [
+      "Both inputs 1",
+      "Any input 1",
+      "Both inputs 0",
+      "Any input 0"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "topic": "Logic Gate",
+    "q": "OR gate gives output 0 when:",
+    "options": [
+      "Both inputs 0",
+      "Any input 1",
+      "Both inputs 1",
+      "One input 1"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "level": "hard",
+    "topic": "Electrostatics",
+    "q": "If distance between two charges is doubled, electrostatic force becomes:",
+    "options": [
+      "F/2",
+      "F/4",
+      "2F",
+      "4F"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "mcq",
+    "level": "hard",
+    "topic": "Current Electricity",
+    "q": "If radius of wire is halved, resistance becomes:",
+    "options": [
+      "R/2",
+      "2R",
+      "4R",
+      "R/4"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "mcq",
+    "level": "hard",
+    "topic": "YDSE",
+    "q": "If slit separation doubles, fringe width becomes:",
+    "options": [
+      "Half",
+      "Double",
+      "Four times",
+      "Same"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "mcq",
+    "level": "hard",
+    "topic": "Photoelectric Effect",
+    "q": "If frequency is doubled above threshold, KE becomes:",
+    "options": [
+      "Double",
+      "More than double",
+      "Depends on work function",
+      "Zero"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "assertion-reason",
+    "topic": "Drift Velocity",
+    "q": "Assertion: Current increases with drift velocity. Reason: I = nqAvd.",
+    "options": [
+      "A and R both true and R is correct explanation",
+      "A and R true but R not explanation",
+      "A true R false",
+      "A false R true"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "assertion-reason",
+    "topic": "Bohr Model",
+    "q": "Assertion: Radius of orbit increases with n². Reason: rn ∝ n².",
+    "options": [
+      "A and R both true and R correct explanation",
+      "A and R true but R not explanation",
+      "A true R false",
+      "A false R true"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "numerical",
+    "topic": "Lens Formula",
+    "q": "Power of lens is +4D. Focal length is:",
+    "options": [
+      "25 cm",
+      "20 cm",
+      "50 cm",
+      "10 cm"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "numerical",
+    "topic": "Photon Energy",
+    "q": "Energy of photon (λ=620 nm) is approx:",
+    "options": [
+      "2 eV",
+      "3 eV",
+      "1 eV",
+      "4 eV"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "numerical",
+    "topic": "Half Life",
+    "q": "If half-life is 10 years, time for decay to 1/16 is:",
+    "options": [
+      "10 yr",
+      "20 yr",
+      "30 yr",
+      "40 yr"
+    ],
+    "answer": 3
+  }
+]

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Physics Smart Exam</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="app">
+
+<header>
+  <h1>📘 Physics Smart Exam</h1>
+  <div class="stats">
+    <span>Score: <b id="score">0</b></span>
+    <span>Total: <b id="total">0</b></span>
+  </div>
+</header>
+
+<!-- SECTION SELECTOR -->
+<div class="sections">
+  <button onclick="setSection('all')" class="active">All</button>
+  <button onclick="setSection('mcq')">MCQ</button>
+  <button onclick="setSection('long')">Long</button>
+  <button onclick="setSection('formula')">Formula</button>
+  <button onclick="setSection('case')">Case Study</button>
+</div>
+
+<!-- PROGRESS -->
+<div class="progress-bar">
+  <div id="progressFill"></div>
+</div>
+
+<div id="progressText"></div>
+
+<!-- PASSAGE -->
+<div id="passage" class="passage"></div>
+
+<!-- QUESTION -->
+<div class="question-box">
+  <div id="topic" class="topic"></div>
+  <div id="question" class="question"></div>
+</div>
+
+<!-- OPTIONS -->
+<div id="options"></div>
+
+<!-- LONG ANSWER -->
+<div id="longSection" style="display:none;">
+  <textarea id="longAnswer" placeholder="Write your answer..."></textarea>
+  <button onclick="checkLong()">Submit</button>
+</div>
+
+<!-- ANSWER BOX -->
+<div id="answerBox" class="answer-box"></div>
+
+<button id="nextBtn" onclick="nextQuestion()">Next Question ▶</button>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
