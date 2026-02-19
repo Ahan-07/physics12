@@ -1,0 +1,485 @@
+[
+{"type":"mcq","topic":"Long Straight Wire","q":"Magnetic field at distance r from long straight wire is proportional to:","options":["r","1/r","r²","Constant"],"answer":1},
+{"type":"mcq","topic":"Long Straight Wire","q":"Magnetic field due to long straight conductor carrying current I is given by:","options":["μ₀I/2πr","μ₀I/4πr","μ₀I/πr","μ₀Ir"],"answer":0},
+{"type":"mcq","topic":"Circular Coil","q":"Magnetic field at centre of circular loop is:","options":["μ₀NI/R","μ₀NI/2R","μ₀I/2πR","μ₀IR"],"answer":1},
+{"type":"mcq","topic":"Circular Coil","q":"Magnetic field at centre increases with:","options":["Decrease in current","Increase in radius","Increase in turns","Decrease in turns"],"answer":2},
+{"type":"mcq","topic":"Force on Charge","q":"Force on moving charge is maximum when angle between v and B is:","options":["0°","30°","60°","90°"],"answer":3},
+{"type":"mcq","topic":"Force on Charge","q":"Force on charge moving parallel to B is:","options":["Maximum","Zero","Minimum","Infinite"],"answer":1},
+{"type":"mcq","topic":"Force on Conductor","q":"Force on conductor depends on:","options":["I","B","L","All of these"],"answer":3},
+{"type":"mcq","topic":"Force on Conductor","q":"Force on conductor is zero when angle between B and I is:","options":["90°","45°","0°","30°"],"answer":2},
+{"type":"mcq","topic":"Torque","q":"Torque on current loop depends on:","options":["Area","Current","Magnetic field","All of these"],"answer":3},
+{"type":"mcq","topic":"Torque","q":"Torque on loop is maximum when θ is:","options":["0°","30°","60°","90°"],"answer":3},
+
+{"type":"mcq","topic":"MCG Principle","q":"Moving coil galvanometer works on principle of:","options":["Electromagnetic induction","Magnetic force on current carrying conductor","Heating effect","Photoelectric effect"],"answer":1},
+{"type":"mcq","topic":"MCG","q":"Magnetic field in galvanometer is made radial to:","options":["Increase torque","Reduce torque","Increase resistance","Reduce deflection"],"answer":0},
+{"type":"mcq","topic":"Current Sensitivity","q":"Current sensitivity depends on:","options":["B","N","A","All"],"answer":3},
+{"type":"mcq","topic":"Current Sensitivity","q":"Current sensitivity is inversely proportional to:","options":["B","N","k","Area"],"answer":2},
+{"type":"mcq","topic":"Voltage Sensitivity","q":"Voltage sensitivity depends on:","options":["Resistance","Current","Charge","Power"],"answer":0},
+{"type":"mcq","topic":"Voltage Sensitivity","q":"Voltage sensitivity is defined as:","options":["θ/V","θ/I","I/θ","V/θ"],"answer":0},
+
+{"type":"mcq","topic":"Long Straight Wire","q":"Magnetic field direction is given by:","options":["Fleming left hand rule","Right hand thumb rule","Lenz law","Ohm’s law"],"answer":1},
+{"type":"mcq","topic":"Circular Coil","q":"Magnetic field at centre is directly proportional to:","options":["Radius","Turns","1/I","Resistance"],"answer":1},
+{"type":"mcq","topic":"Force on Charge","q":"Lorentz force is:","options":["qvB sinθ","qvB cosθ","qv²","mv²"],"answer":0},
+{"type":"mcq","topic":"Force on Conductor","q":"Force on conductor formula is:","options":["BIL","B²IL","IL/B","B/I"],"answer":0},
+{"type":"mcq","topic":"Torque","q":"Torque is given by:","options":["NBA","NBIA","NBI","N/BIA"],"answer":1},
+
+{"type":"mcq","topic":"MCG","q":"Deflection in galvanometer depends on:","options":["Torque","Resistance","Length","Voltage"],"answer":0},
+{"type":"mcq","topic":"MCG","q":"Galvanometer coil is made of:","options":["Iron","Copper","Aluminium","Silver"],"answer":1},
+{"type":"mcq","topic":"Current Sensitivity","q":"Sensitivity increases with increase in:","options":["k","B","Area","Resistance"],"answer":2},
+{"type":"mcq","topic":"Voltage Sensitivity","q":"Voltage sensitivity decreases with:","options":["Increase in resistance","Decrease in resistance","Constant B","Constant N"],"answer":0},
+
+{"type":"mcq","topic":"Long Straight Wire","q":"If current doubles, B becomes:","options":["Half","Double","Same","Zero"],"answer":1},
+{"type":"mcq","topic":"Circular Coil","q":"If radius doubles, B becomes:","options":["Half","Double","Same","Zero"],"answer":0},
+{"type":"mcq","topic":"Force on Charge","q":"Charge moving perpendicular to B follows:","options":["Straight line","Circular path","Random","Stationary"],"answer":1},
+{"type":"mcq","topic":"Force on Conductor","q":"F is maximum when angle is:","options":["0°","45°","60°","90°"],"answer":3},
+{"type":"mcq","topic":"Torque","q":"Torque becomes zero when θ is:","options":["90°","45°","0°","60°"],"answer":2},
+
+{"type":"mcq","topic":"MCG","q":"MCG measures:","options":["Voltage","Current","Power","Energy"],"answer":1},
+{"type":"mcq","topic":"Current Sensitivity","q":"Sᵢ = θ/I is:","options":["Voltage sensitivity","Current sensitivity","Torque","Force"],"answer":1},
+{"type":"mcq","topic":"Voltage Sensitivity","q":"Sᵥ = θ/V depends on:","options":["Resistance","Area","Turns","Magnetic field"],"answer":0}
+,
+{
+"type":"long",
+"topic":"Magnetic Field due to Long Straight Wire",
+"q":"Derive expression for magnetic field at a point due to a long straight current carrying conductor.",
+"answer":"Consider an infinitely long straight conductor carrying current I. To find the magnetic field at a distance r from the conductor, we apply Ampere’s circuital law. According to Ampere’s law, ∮B.dl = μ₀I_enclosed. Choose a circular Amperian loop of radius r around the conductor. Due to symmetry, magnetic field B is constant at every point on the loop and is tangential to the loop. Therefore, B(2πr) = μ₀I. Hence, the magnetic field at distance r from the conductor is B = μ₀I / 2πr."
+},
+{
+"type":"long",
+"topic":"Magnetic Field at Centre of Circular Coil",
+"q":"Derive expression for magnetic field at the centre of circular current loop.",
+"answer":"Consider a circular loop of radius R carrying current I. According to Biot–Savart law, the magnetic field due to a small current element dl at the centre is dB = (μ₀/4π)(Idl sinθ / r²). At the centre of loop, θ = 90° and r = R. Therefore, dB = (μ₀/4π)(Idl / R²). Integrating over entire loop, B = (μ₀I / 4πR²) ∮dl = (μ₀I / 4πR²)(2πR) = μ₀I / 2R. For N turns, B = μ₀NI / 2R."
+},
+{
+"type":"long",
+"topic":"Force on Moving Charge",
+"q":"Write expression for force on moving charge in magnetic field.",
+"answer":"When a charged particle moves in a magnetic field, it experiences a force known as Lorentz force. If a charge q moves with velocity v in a magnetic field B making an angle θ between v and B, then the magnetic force acting on it is given by F = qvB sinθ. This force is always perpendicular to both velocity and magnetic field."
+},
+{
+"type":"long",
+"topic":"Force on Current Carrying Conductor",
+"q":"Derive expression for force on current carrying conductor in magnetic field.",
+"answer":"Consider a straight conductor of length l carrying current I placed in a uniform magnetic field B making an angle θ with the direction of field. The force on charge q moving with velocity v is F = qvB sinθ. For a conductor, current I = nqAv. Substituting, force on conductor becomes F = BIl sinθ."
+},
+{
+"type":"long",
+"topic":"Torque on Current Loop",
+"q":"Derive expression for torque on current carrying rectangular loop placed in uniform magnetic field.",
+"answer":"Consider a rectangular coil of length l and breadth b carrying current I placed in a uniform magnetic field B at angle θ. Force on each side is F = BIl. Two opposite forces form a couple producing torque. Torque τ = Force × perpendicular distance = BIl × b sinθ. Since area A = lb and for N turns, τ = NBIAsinθ."
+},
+{
+"type":"long",
+"topic":"Moving Coil Galvanometer",
+"q":"State principle and working of moving coil galvanometer.",
+"answer":"Moving coil galvanometer works on the principle that a current carrying conductor placed in a magnetic field experiences a torque. When current passes through the coil placed in radial magnetic field, it experiences torque which causes rotation. The restoring torque due to suspension balances the deflecting torque and produces angular deflection proportional to current."
+},
+{
+"type":"long",
+"topic":"Conversion to Ammeter",
+"q":"How will you convert a galvanometer into an ammeter?",
+"answer":"A galvanometer is converted into an ammeter by connecting a low resistance called shunt in parallel with it. Most of the current passes through the shunt and small current through galvanometer. If G is galvanometer resistance and Ig full scale deflection current, then shunt resistance S = (IgG)/(I - Ig)."
+},
+{
+"type":"long",
+"topic":"Conversion to Voltmeter",
+"q":"How will you convert a galvanometer into a voltmeter?",
+"answer":"A galvanometer is converted into voltmeter by connecting a high resistance in series with it. This resistance If G is galvanometer resistance and Ig is full scale deflection current, then required series resistance R = (V/Ig) - G."
+},
+{
+"type":"long",
+"topic":"Current Sensitivity",
+"q":"Define current sensitivity of galvanometer.",
+"answer":"Current sensitivity is defined as the deflection produced per unit current. It is given by Si = θ/I = NBA/k, where N is number of turns, B is magnetic field, A is area of coil and k is torsional constant."
+},
+{
+"type":"long",
+"topic":"Voltage Sensitivity",
+"q":"Define voltage sensitivity.",
+"answer":"Voltage sensitivity is defined as the deflection produced per unit potential difference applied across the galvanometer. It is given by Sv = θ/V."
+}
+,
+
+{
+"type":"long",
+"topic":"Magnetism",
+"q":"State Biot–Savart law and write its mathematical expression.",
+"answer":"Biot–Savart law states that magnetic field dB at a point due to a small current element Idl is directly proportional to current, length element and sine of angle between dl and position vector, and inversely proportional to square of distance. dB = (μ₀/4π) (Idl sinθ)/r²."
+},
+{
+"type":"long",
+"topic":"Magnetism",
+"q":"Write expression for magnetic field at the centre of a circular coil carrying current.",
+"answer":"Magnetic field at the centre of circular coil of N turns and radius R carrying current I is B = μ₀NI / 2R."
+},
+{
+"type":"numerical",
+"topic":"Magnetism",
+"q":"A circular coil of 100 turns and radius 5 cm carries current of 2 A. Find magnetic field at its centre.",
+"answer":"B = μ₀NI / 2R = (4π×10⁻⁷ ×100×2)/(2×0.05) = 2.51×10⁻³ T."
+},
+{
+"type":"long",
+"topic":"Magnetism",
+"q":"State Ampere’s circuital law.",
+"answer":"Ampere’s circuital law states that line integral of magnetic field around a closed loop is equal to μ₀ times the net current enclosed by the loop: ∮B·dl = μ₀I."
+},
+{
+"type":"numerical",
+"topic":"Magnetism",
+"q":"Find magnetic field at distance 2 cm from long straight wire carrying 5 A current.",
+"answer":"B = μ₀I / 2πr = (4π×10⁻⁷ ×5)/(2π×0.02) = 5×10⁻⁵ T."
+},
+{
+"type":"long",
+"topic":"Magnetism",
+"q":"Write expression for force on a moving charge in magnetic field.",
+"answer":"Force on moving charge is given by Lorentz force F = qvB sinθ."
+},
+{
+"type":"numerical",
+"topic":"Magnetism",
+"q":"A charge 2×10⁻⁶ C moves with velocity 3×10⁵ m/s perpendicular to magnetic field 0.2 T. Find force on charge.",
+"answer":"F = qvB = (2×10⁻⁶)(3×10⁵)(0.2) = 0.12 N."
+},
+{
+"type":"long",
+"topic":"Magnetism",
+"q":"Write expression for force on a current carrying conductor placed in magnetic field.",
+"answer":"Force on conductor is F = BIL sinθ."
+},
+{
+"type":"numerical",
+"topic":"Magnetism",
+"q":"A conductor of length 0.5 m carries current 4 A in magnetic field 0.3 T perpendicular to field. Find force.",
+"answer":"F = BIL = (0.3)(4)(0.5) = 0.6 N."
+},
+{
+"type":"long",
+"topic":"Cyclotron",
+"q":"Write expression for cyclotron frequency.",
+"answer":"Cyclotron frequency is f = qB / 2πm."
+},
+{
+"type":"numerical",
+"topic":"Cyclotron",
+"q":"Find cyclotron frequency for proton in magnetic field 0.1 T.",
+"answer":"f = qB / 2πm = (1.6×10⁻¹⁹ ×0.1)/(2π×1.67×10⁻²⁷) = 1.52×10⁶ Hz."
+},
+{
+"type":"long",
+"topic":"Magnetic Moment",
+"q":"Write expression for magnetic moment of current loop.",
+"answer":"Magnetic moment m = NIA."
+},
+{
+"type":"numerical",
+"topic":"Magnetism",
+"q":"A loop of area 0.02 m² with 10 turns carries current 3 A. Find magnetic moment.",
+"answer":"m = NIA = 10×3×0.02 = 0.6 A·m²."
+}
+,
+{
+"type":"long",
+"topic":"Electric Flux & Gauss Law",
+"q":"(a) Define electric flux. (b) Write Gauss’s law. Find electric field due to an infinite plane sheet of charge.",
+"answer":"Electric flux is the total electric field passing normally through a surface and is given by Φ = E·A. SI unit is N·m²/C. Gauss’s law states that the total electric flux through a closed surface is equal to 1/ε₀ times the net charge enclosed within the surface: ∮E·dA = Q/ε₀. For an infinite plane sheet of charge having surface charge density σ, electric field is obtained using Gaussian surface as E = σ / (2ε₀)."
+},
+{
+"type":"long",
+"topic":"Drift Velocity",
+"q":"(a) Define drift velocity. (b) State relation between current and drift velocity.",
+"answer":"Drift velocity is the average velocity acquired by free electrons in a conductor under the influence of an applied electric field. The relation between current and drift velocity is I = nqAvd, where n is number of charge carriers per unit volume, q is charge of electron, A is cross-sectional area and vd is drift velocity."
+},
+{
+"type":"long",
+"topic":"Photoelectric Effect",
+"q":"(a) What is work function? (b) Define threshold frequency.",
+"answer":"Work function is the minimum amount of energy required to remove an electron from the surface of a metal. Threshold frequency is the minimum frequency of incident radiation required to just eject electrons from the metal surface."
+},
+{
+"type":"long",
+"topic":"Energy Band Theory",
+"q":"Draw energy band diagrams for conductor, insulator and semiconductor.",
+"answer":"In conductors, valence band and conduction band overlap and forbidden energy gap is zero. In semiconductors, there exists a small forbidden energy gap (~1 eV). In insulators, the forbidden energy gap is large (>5 eV), preventing electron movement from valence band to conduction band."
+},
+{
+"type":"long",
+"topic":"p-n Junction",
+"q":"Explain depletion region formation in p–n junction.",
+"answer":"When p-type and n-type semiconductors are joined, electrons from n-region diffuse into p-region and holes from p-region diffuse into n-region. Recombination near the junction leaves immobile ions forming a charge-free region called depletion region which sets up a barrier potential."
+},
+{
+"type":"long",
+"topic":"Rutherford Experiment",
+"q":"State Rutherford’s alpha scattering conclusions.",
+"answer":"Atom consists of a small dense positively charged nucleus at the centre. Most of the atom is empty space and electrons revolve around the nucleus."
+},
+{
+"type":"long",
+"topic":"Bohr Model",
+"q":"Calculate radius of Bohr orbit for hydrogen atom in ground state.",
+"answer":"Bohr radius for ground state is r₁ = 0.53 Å. General expression rn = n²h² / (4π²mke²). For n = 1, r₁ = 0.53 × 10⁻¹⁰ m."
+},
+{
+"type":"long",
+"topic":"Lens Formula",
+"q":"A convex lens of focal length 20 cm forms image at 30 cm. Find object distance.",
+"answer":"Using 1/f = 1/v + 1/u → 1/20 = 1/30 + 1/u → 1/u = 1/20 - 1/30 = 1/60. Hence u = -60 cm."
+},
+{
+"type":"long",
+"topic":"YDSE",
+"q":"Derive expression for fringe width in YDSE.",
+"answer":"In YDSE, path difference = d sinθ ≈ dy/D. For bright fringes dy/D = nλ. Hence position y = nλD/d. Fringe width β = λD/d."
+},
+{
+"type":"long",
+"topic":"Photoelectric Effect Numerical",
+"q":"Light of wavelength 600 nm falls on metal. Work function = 2 eV. Find KE of emitted electron.",
+"answer":"Photon energy = 1240/600 = 2.07 eV. KE = E - ϕ = 2.07 - 2 = 0.07 eV."
+},
+{
+"type":"long",
+"topic":"LED",
+"q":"Write principle, advantages and disadvantages of LED.",
+"answer":"LED works on electroluminescence principle where electron-hole recombination emits light. Advantages: low power consumption, long life, fast response. Disadvantages: sensitive to temperature and costlier."
+},
+{
+"type":"long",
+"topic":"Photoelectric Case Study",
+"q":"Define stopping potential, effect of intensity and frequency, write Einstein equation and explain failure of classical theory.",
+"answer":"Stopping potential is minimum negative potential required to stop photoelectrons. Increasing intensity increases current but not KE. Increasing frequency increases KE. Einstein equation: hf = ϕ + KEmax. Classical theory failed as it could not explain threshold frequency and instantaneous emission."
+},
+{
+"type":"long",
+"topic":"Electric Field",
+"q":"Explain electric field due to point charge.",
+"answer":"Electric field at distance r from point charge Q is E = (1/4πε₀)(Q/r²) directed radially outward for positive charge."
+},
+{
+"type":"long",
+"topic":"Binding Energy",
+"q":"What is nuclear binding energy? Explain graph.",
+"answer":"Binding energy is energy required to separate nucleus into nucleons. Binding energy per nucleon increases with mass number and peaks near iron showing maximum stability."
+},
+{
+"type":"long",
+"topic":"Mirror Formula",
+"q":"Derive mirror formula.",
+"answer":"Using similar triangles in spherical mirror geometry, 1/f = 1/v + 1/u."
+},
+{
+"type":"long",
+"topic":"Solar Cell",
+"q":"Explain working of solar cell.",
+"answer":"Solar cell works on photovoltaic effect where light energy creates electron-hole pairs producing electric current across p-n junction."
+},
+{
+"type":"long",
+"topic":"Capacitance",
+"q":"Derive capacitance of parallel plate capacitor.",
+"answer":"C = ε₀A/d derived using electric field E = σ/ε₀ and potential difference V = Ed."
+},
+{
+"type":"long",
+"topic":"Zener Diode",
+"q":"Explain Zener diode.",
+"answer":"Zener diode operates in reverse breakdown region and maintains constant voltage, used as voltage regulator."
+},
+{
+"type":"long",
+"topic":"Radioactive Decay",
+"q":"Define radioactive decay law.",
+"answer":"Rate of decay is proportional to number of undecayed nuclei: N = N₀e^(-λt)."
+},
+{
+"type":"long",
+"topic":"Huygens Principle",
+"q":"State Huygens principle.",
+"answer":"Every point on wavefront acts as secondary source of wavelets spreading forward."
+},
+{
+"type":"long",
+"topic":"Threshold Frequency",
+"q":"Find threshold frequency (ϕ=2.2 eV).",
+"answer":"f₀ = ϕ/h = (2.2×1.6×10⁻¹⁹)/(6.63×10⁻³⁴) = 5.3×10¹⁴ Hz."
+},
+{
+"type":"long",
+"topic":"Logic Gates",
+"q":"Explain logic gate AND & OR with truth table.",
+"answer":"AND gate gives output 1 only when both inputs are 1. OR gate gives output 1 when any input is 1. Truth tables accordingly."
+}
+,
+{"type":"numerical","topic":"Resistance","q":"A wire is stretched to double its length. If original resistance is 5 Ω, find new resistance.","answer":"R' = 4R = 20 Ω"},
+
+{"type":"numerical","topic":"Drift Velocity","q":"Drift velocity = 2×10⁻⁴ m/s, n=8×10²⁸ m⁻³, A=1 mm². Find current.","answer":"I = nqAv = 2.56 A"},
+
+{"type":"numerical","topic":"Series Resistance","q":"Two resistors 4 Ω and 6 Ω in series across 12 V. Find current.","answer":"I = 12/10 = 1.2 A"},
+
+{"type":"numerical","topic":"Internal Resistance","q":"A cell of emf 2 V and internal resistance 0.5 Ω is connected to 3.5 Ω resistor. Find current.","answer":"I = 2/(3.5+0.5) = 0.5 A"},
+
+{"type":"numerical","topic":"Resistivity","q":"ρ=1.6×10⁻⁸, L=1m, A=1 mm². Find resistance.","answer":"R = 0.016 Ω"},
+
+{"type":"numerical","topic":"Power","q":"Power dissipated in 10 Ω resistor connected to 5 V supply.","answer":"P = V²/R = 2.5 W"},
+
+{"type":"numerical","topic":"Temperature Coefficient","q":"α=4×10⁻³, ΔT=50°C. Find resistance change ratio.","answer":"R₂ = 1.2R₁"},
+
+{"type":"numerical","topic":"Potentiometer","q":"Balance length 60 cm for 1.5 V. Find potential gradient.","answer":"k = 0.025 V/cm"},
+
+{"type":"numerical","topic":"Lens","q":"Convex lens f=20cm, v=30cm. Find u.","answer":"u = -60 cm"},
+
+{"type":"numerical","topic":"Mirror","q":"Concave mirror f=15cm, v=10cm. Find u.","answer":"u = -30 cm"},
+
+{"type":"numerical","topic":"Lens Power","q":"Lens of power +5D. Find focal length.","answer":"f = 20 cm"},
+
+{"type":"numerical","topic":"Critical Angle","q":"Refractive index=1.5. Find critical angle.","answer":"C ≈ 41.8°"},
+
+{"type":"numerical","topic":"Lens Combination","q":"Two lenses 10 cm and 20 cm in contact. Find equivalent focal length.","answer":"F = 6.67 cm"},
+
+{"type":"numerical","topic":"Prism","q":"A=60°, μ=1.5. Find minimum deviation.","answer":"δ = 37.2°"},
+
+{"type":"numerical","topic":"Microscope","q":"fo=1cm, fe=5cm, L=20cm. Find magnification.","answer":"M = 80"},
+
+{"type":"numerical","topic":"Telescope","q":"fo=100cm, fe=5cm. Find magnification.","answer":"M = 20"},
+
+{"type":"numerical","topic":"YDSE","q":"λ=600 nm, d=2mm, D=2m. Find fringe width.","answer":"β = 0.6 mm"},
+
+{"type":"numerical","topic":"Diffraction","q":"a=1mm, λ=500nm, D=1m. Find first minima.","answer":"y = 0.5 mm"},
+
+{"type":"numerical","topic":"YDSE","q":"β=0.3mm, λ=500nm, D=1m. Find slit separation.","answer":"d = 1.67 mm"},
+
+{"type":"numerical","topic":"YDSE","q":"Path difference for λ=600nm for 2nd bright fringe.","answer":"Δx = 1.2 μm"},
+
+{"type":"numerical","topic":"Photoelectric","q":"λ=400nm, φ=2eV. Find KE.","answer":"KE = 1.1 eV"},
+
+{"type":"numerical","topic":"Stopping Potential","q":"fo=3×10¹⁴Hz, f=6×10¹⁴Hz. Find Vs.","answer":"Vs ≈ 1.24 V"},
+
+{"type":"numerical","topic":"Photoelectric","q":"φ=3eV, λ=300nm. Find KE.","answer":"KE = 1.13 eV"},
+
+{"type":"numerical","topic":"Photoelectric","q":"Stopping potential=1.5V. Find KE.","answer":"KE = 1.5 eV"},
+
+{"type":"numerical","topic":"Photoelectric","q":"f=5×10¹⁴Hz, fo=3×10¹⁴Hz. Find KE.","answer":"KE ≈ 0.83 eV"},
+
+{"type":"numerical","topic":"Bohr Radius","q":"Find Bohr radius for hydrogen ground state.","answer":"r₁ = 0.53 Å"},
+
+{"type":"numerical","topic":"Bohr Energy","q":"Find energy of 2nd orbit.","answer":"E₂ = -3.4 eV"},
+
+{"type":"numerical","topic":"Bohr Radius Ratio","q":"Find r₃/r₁.","answer":"9"},
+
+{"type":"numerical","topic":"Transition","q":"Transition n=3 to n=2. Find wavelength.","answer":"λ ≈ 656 nm"},
+
+{"type":"numerical","topic":"Half Life","q":"Half-life=10 days. Time for 1/8 decay.","answer":"30 days"},
+
+{"type":"numerical","topic":"Binding Energy","q":"BE=200MeV, A=50. Find BE per nucleon.","answer":"4 MeV"},
+
+{"type":"numerical","topic":"Mass Defect","q":"Δm=0.2u. Find BE.","answer":"BE = 186 MeV"},
+
+{"type":"numerical","topic":"Closest Approach","q":"E=2.56×10⁻¹²J. Find closest approach.","answer":"r₀ ≈ 1.44×10⁻¹⁴ m"},
+
+{"type":"numerical","topic":"Decay Constant","q":"T½=5days. Find λ.","answer":"λ = 1.6×10⁻⁶ s⁻¹"},
+
+{"type":"numerical","topic":"Rectifier","q":"Full wave rectifier input 50Hz. Output freq?","answer":"100 Hz"},
+
+{"type":"numerical","topic":"Energy Gap","q":"Eg=1.1eV. Find wavelength.","answer":"λ ≈ 1127 nm"},
+
+{"type":"numerical","topic":"Zener","q":"Zener diode 5.6V. Output voltage?","answer":"5.6 V"},
+
+{"type":"numerical","topic":"Diode","q":"Forward current 20mA at 0.7V. Find resistance.","answer":"R = 35 Ω"},
+
+{"type":"numerical","topic":"Magnetism","q":"N=200, r=4cm, I=0.4A. Find B at centre.","answer":"B = 1.26×10⁻³ T"},
+
+{"type":"numerical","topic":"Magnetic Force","q":"q=2×10⁻⁶, v=3×10⁵, B=0.2T. Find force.","answer":"F = 0.12 N"},
+
+{"type":"numerical","topic":"Long Wire","q":"I=5A at 2cm. Find B.","answer":"B = 5×10⁻⁵ T"},
+
+{"type":"numerical","topic":"Magnetic Moment","q":"N=10, I=3A, A=0.02m². Find m.","answer":"m = 0.6 A·m²"},
+
+{"type":"numerical","topic":"EM Wave","q":"f=5×10¹⁴Hz. Find wavelength.","answer":"λ = 600 nm"},
+
+{"type":"numerical","topic":"Energy Density","q":"E=10V/m. Find energy density.","answer":"u ≈ 4.4×10⁻¹⁰ J/m³"},
+
+{"type":"numerical","topic":"de Broglie","q":"Proton accelerated by 100V. Find λ.","answer":"λ ≈ 9.1×10⁻¹² m"},
+
+{"type":"numerical","topic":"Electron","q":"Electron accelerated by 150V. Find λ.","answer":"λ ≈ 1×10⁻¹⁰ m"},
+
+{"type":"numerical","topic":"Electric Field","q":"Electric field at 0.5m from 4μC.","answer":"E = 1.44×10⁵ N/C"},
+
+{"type":"numerical","topic":"Capacitor","q":"4μF & 6μF in series across 12V. Find charge.","answer":"Q = 28.8 μC"},
+
+{"type":"numerical","topic":"Capacitor Energy","q":"Capacitor V connected to identical uncharged capacitor. Find final energy ratio.","answer":"1/2"}
+,
+{
+"type":"numerical",
+"topic":"Galvanometer to Ammeter",
+"q":"A galvanometer of resistance 25 Ω shows full scale deflection for 2 mA. Convert it into ammeter of range 5 A.",
+"answer":"Shunt resistance S = (IgG)/(I−Ig) = (0.002×25)/(5−0.002) ≈ 0.01 Ω"
+},
+{
+"type":"numerical",
+"topic":"Galvanometer to Voltmeter",
+"q":"A galvanometer of resistance 25 Ω shows full scale deflection for 2 mA. Convert it into voltmeter of range 10 V.",
+"answer":"Series resistance R = (V/Ig) − G = (10/0.002) − 25 = 4975 Ω"
+},
+{
+"type":"numerical",
+"topic":"Torque on Coil",
+"q":"A rectangular coil of 100 turns, area 5×10⁻⁴ m² carries 2 mA current in magnetic field 0.2 T. Find torque if plane makes 30° with field.",
+"answer":"τ = NBIAsinθ = 100×0.2×0.002×5×10⁻⁴×sin30° = 1×10⁻⁵ Nm"
+},
+{
+"type":"numerical",
+"topic":"Magnetic Moment",
+"q":"Magnetic moment of coil N = 10, I = 3 A, A = 0.02 m².",
+"answer":"Magnetic moment M = NIA = 10×3×0.02 = 0.6 A·m²"
+},
+{
+"type":"numerical",
+"topic":"Radius in Magnetic Field",
+"q":"A proton enters perpendicular to 0.1 T field with velocity 2×10⁶ m/s. Find radius of circular path.",
+"answer":"r = mv/qB = (1.67×10⁻²⁷×2×10⁶)/(1.6×10⁻¹⁹×0.1) ≈ 0.21 m"
+},
+{
+"type":"numerical",
+"topic":"Cyclotron Frequency",
+"q":"Find cyclotron frequency for proton in magnetic field 0.1 T.",
+"answer":"f = qB/2πm = (1.6×10⁻¹⁹×0.1)/(2π×1.67×10⁻²⁷) ≈ 1.5×10⁶ Hz"
+},
+{
+"type":"numerical",
+"topic":"Galvanometer to Voltmeter",
+"q":"A galvanometer of resistance 50 Ω gives full scale deflection at 2 mA. Convert into voltmeter of range 10 V.",
+"answer":"R = (V/Ig) − G = (10/0.002) − 50 = 4950 Ω"
+},
+{
+"type":"numerical",
+"topic":"Galvanometer to Ammeter",
+"q":"A galvanometer of resistance 100 Ω gives full scale deflection for 1 mA. Convert it into ammeter of range 1 A.",
+"answer":"S = (IgG)/(I−Ig) = (0.001×100)/(1−0.001) ≈ 0.1 Ω"
+},
+{
+"type":"numerical",
+"topic":"Magnetic Field Long Wire",
+"q":"A long straight wire carries 5 A current. Find magnetic field at a distance 2 cm from it.",
+"answer":"B = μ₀I/2πr = (4π×10⁻⁷×5)/(2π×0.02) = 5×10⁻⁵ T"
+},
+{
+"type":"numerical",
+"topic":"Force on Conductor",
+"q":"A conductor of length 0.5 m carries current 4 A in 0.3 T magnetic field. Find force.",
+"answer":"F = BIL = 0.3×4×0.5 = 0.6 N"
+},
+{
+"type":"numerical",
+"topic":"Force on Moving Charge",
+"q":"A charge 2×10⁻⁶ C moves with velocity 3×10⁵ m/s perpendicular to magnetic field 0.2 T. Find force.",
+"answer":"F = qvB = 2×10⁻⁶×3×10⁵×0.2 = 0.12 N"
+},
+{
+"type":"numerical",
+"topic":"Magnetic Field Circular Coil",
+"q":"A circular coil of 200 turns, radius 4 cm carries 0.4 A current. Find magnetic field at centre.",
+"answer":"B = μ₀NI/2R = (4π×10⁻⁷×200×0.4)/(2×0.04) ≈ 1.26×10⁻³ T"
+}
+]
